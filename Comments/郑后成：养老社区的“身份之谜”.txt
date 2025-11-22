@@ -1,0 +1,46 @@
+<p align="center" class="MsoNormal" style="MARGIN: 0cm 0cm 0pt">
+<!--?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /-->
+<st1:chsdate day="17" islunardate="False" isrocdate="False" month="8" w:st="on" year="2011">
+<span lang="EN-US" style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">2011-08-24</span>
+</st1:chsdate></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt">
+<st1:chsdate day="17" islunardate="False" isrocdate="False" month="8" w:st="on" year="2011">
+<span lang="EN-US" style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"></span>
+</st1:chsdate><font size="3"> </font></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt">
+<st1:chsdate day="17" islunardate="False" isrocdate="False" month="8" w:st="on" year="2011">
+<span lang="EN-US" style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    8<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">月<span lang="EN-US">17日</span></span></span>
+</st1:chsdate><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">，国务院常务会议讨论通过的《中国老龄事业发展“十二五”规划》提出扩大居家养老服务网络覆盖面，推进供养型、养护型、医护型养老机构建设，开展多种形式的老年社区照料服务。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /-->
+<o:p></o:p><font size="3"> </font></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; mso-list: none; mso-list-ins: 'MC SYSTEM' 20110822T2127"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    目前<span lang="EN-US">,居家养老、社区养老和机构养老是三大主要的养老模式。居家养老是指老年人在家中居住，由子女、亲属或社会提供养老服务的一种养老方式。社区养老是将社会机构养老中的服务引入社区<span lang="EN-US">,实行社区服务的在家养老。机构养老则是指以社会机构为养老场所，由养老机构统一为老年人提供有偿或无偿的服务<span lang="EN-US">,以保障老年人安渡晚年的养老方式。联系到养老社区这一保险业界的热门话题，笔者不禁有个疑问，养老社区属于居家养老、社区养老与机构养老这三种养老模式中的哪一种呢？</span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; mso-list: none; mso-list-ins: 'MC SYSTEM' 20110822T2127"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p><font size="3"> </font></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    这个问题看似简单，实则不然。在今年<span lang="EN-US">4月份北京大学经济学院召开赛瑟论坛之际，笔者曾就这个问题随机“采访”了一些参会人员，其中，有在读的博士生，有业界的专业人士，也有 
+     <st1:personname productid="高校的" w:st="on">
+       高校的教授学者。受访对象对养老社区性质的归属问题给出的答案不大相同，有的说是属于居家养老，有的说属于社区养老，也有的说属于机构养老。看来，即便是具备一定知识背景的专业人士，对养老社区的性质也有不同的认识。于是 
+      <span lang="EN-US">,笔者称养老社区性质归属问题为养老社区的“身份之谜”。</span>
+</st1:personname></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p><font size="3"> </font></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; mso-list: none; mso-list-ins: 'MC SYSTEM' 20110822T2133"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    “身份之谜”的产生，笔者认为有以下几点原因<span lang="EN-US">:首先，养老社区的名称中带有“社区”一词，这就容易让人将其与社区养老联系起来，尤其是对不太熟悉养老社区的人而言。其次，如果入住者购买了养老社区的房子，养老社区就是他们的家，在家中养老，不就是居家养老吗？此外，目前部分公司在进行养老社区产品推介时，为了增强产品的吸引力，都会以“亲情”、“温暖”、“家”等字眼招徕潜在客户，这也给人以养老社区属于居家养老的错觉。</span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; mso-list: none; mso-list-ins: 'MC SYSTEM' 20110822T2133"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p><font size="3"> </font></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    笔者认为，养老社区应该归属于机构养老，理由有以下几点。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p><font size="3"> </font></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; mso-list: none; mso-list-ins: 'MC SYSTEM' 20110822T2134"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    从定义上看，不论是居家养老还是社区养老，都离不开“家”。“家”理应是一个拥有所有权的空间，没有人会将租来的房间视为自己真正的“家”。目前，开发商基本上都计划出租，而不是出售养老社区的房子。入住者需缴纳一笔入门费或押金，其数额约几十万，正式入住后每个月还必须缴纳几千元的月费。入门费（押金）在入住者离开养老社区的时候会退还给入住者。毫无疑问，在所有权方面，养老社区不是入住者的真正意义上的“家”。既然养老社区不是“家”，那也就谈不上养老社区属于社区养老，更谈不上属于居家养老，因为“家”是社区养老与居家养老必不可少的载体。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; mso-list: none; mso-list-ins: 'MC SYSTEM' 20110822T2134"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p><font size="3"> </font></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    从养老地点的角度看，居家养老与社区养老的共同点是都是在熟悉的生活环境里养老，并不离开原有的住房与社区，也就是说，居家养老与社区养老属于原居养老（<span lang="EN-US">aging in place）。在这里，老年人与有血缘、婚姻关系的人，以及与熟悉的邻居、朋友一起居住、生活，对环境有一种亲切感与归属感。而机构养老则不同，属于异地养老，也就是入住者离开自己熟悉的环境，到新的环境中养老。在那里，各种职业、各个阶层的老年人共同居住、共同生活。目前，国内的养老社区一般都选址在山清水秀，空气清新，离市区<span lang="EN-US">1小时车程内的市郊。这对于市区老年人则意味着他们得离开熟悉的社区，去新社区生活。可见，从养老地点来看，养老社区具有异地养老的特点，而这个特点是居家养老与社区养老所不具备的。</span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p><font size="3"> </font></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    从养老的集中度来看，居家养老与社区养老都是在熟悉的家与社区中养老，而家与社区都具有分散性，这就决定了居家养老与社区养老是分散性的养老。老年人分散在各自的家中，或者由家人照顾，或者由养老机构人员上门服务，或者到各自社区的养老场所活动。在机构养老模式下，老年人被集中到养老机构，由受过专门训练的人士统一照顾，统一护理。因此，机构养老属于集中性质的养老。养老社区中居住的都是一定年龄以上的老年人，有的养老社区规定入住者只能是老年人，年轻人探望老人时，不能在社区居住超过一个月。因此，养老社区具有集中化管理的特点，而这个特点是机构养老所独有的。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p><font size="3"> </font></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    从养老服务的提供者角度看，在居家养老、社区养老以及机构养老模式下，子女或亲属，以及社会养老服务机构都可以是养老服务的提供者。但是在不同的模式下，子女或亲属与社会养老服务机构所承担的生活照料责任是不同的。在居家养老模式下，子女或亲属是提供养老服务的主力军，社会养老服务机构处于辅助地位。在社区养老模式下，子女或亲属与社会养老机构各提供大体相等的养老服务。而在机构养老模式下，养老服务机构是养老服务的主要提供者，子女则扮演“配角”。养老社区有完善的养老设施，丰富的养老服务，受过专业培训的护理人员，严格的规章制度，这一切使得养老社区能够持续不断地提供优质、高效、专业的服务，承担起生活照料的主要责任，这是居家养老与社区养老无法做到的，只有专业的养老机构才能完成这样的任务。这也是机构养老优于居家养老与社区养老的所在。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p><font size="3"> </font></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    养老社区属于三种养老模式中的哪一种，这个问题很重要。<span lang="EN-US">2006年<span lang="EN-US">2月，我国颁发了《关于加快发展养老服务业的意见》，提出了“发展养老服务要按照政策引导、政府扶持、社会兴办、市场推动的原则<span lang="EN-US">,逐步建立和完善以居家养老为基础、社区服务为依托、机构养老为补充的服务体系。”与之相呼应，此次《中国老龄事业发展“十二五”规划》明确将“完善家庭养老保障和照料服务扶持政策，提倡亲情互助，弘扬孝亲敬老传统美德”列为“十二五”时期老龄事业发展的重点任务之一。<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">按照这两份文件，如果养老社区属于居家养老或社区养老，那么大力发展养老社区就有了政策的依据和支持。同时，由于居家养老、社区养老为社会广为接受，发展养老社区也不会存在来自传统观念方面的障碍。但是，鉴于在老龄社会条件下，空巢老人、高龄老人、独生子女家庭以及失能老人日益增多，养老社区将有可能成为主流的养老模式。如果养老社区被归属于机构养老，则与机构养老的“补充地位”角色冲突。这是否就意味着国家的养老服务模式需要进行一定程度的调整呢？<span lang="EN-US">
+<o:p></o:p></span></span></span></span></span></span></p>

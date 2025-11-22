@@ -1,0 +1,34 @@
+<p align="center" class="MsoNormal" style="MARGIN: 0cm 0cm 0pt">
+<!--?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /-->
+<st1:chsdate day="31" islunardate="False" isrocdate="False" month="1" w:st="on" year="2013">
+<span lang="EN-US" style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">2013-02-05</span>
+</st1:chsdate></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt">
+<st1:chsdate day="31" islunardate="False" isrocdate="False" month="1" w:st="on" year="2013">
+<span lang="EN-US" style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"></span>
+</st1:chsdate> </p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt">
+<st1:chsdate day="31" islunardate="False" isrocdate="False" month="1" w:st="on" year="2013">
+<span lang="EN-US" style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    1<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">月<span lang="EN-US">31日</span></span></span>
+</st1:chsdate><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">，<span lang="EN-US">2013年中央一号文件发布，题为《中共中央国务院关于加快发展现代农业 进一步增强农村发展活力的若干意见》，在“健全农业支持保护制度，不断加大强农惠农富农政策力度”部分中，提出了健全政策性农业保险制度的一系列政策，表明政府对农业保险的支持力度一如既往，文件中既有关于完善保费补贴政策及提高补贴比例等促进保险需求的意见，也包括推进建立农业保险大灾风险分散机制的支持保险供给的意见。作为分散农业风险、保护农民生产的信心和利益的市场化工具，农业保险在我国的发展一波三折，近年来发挥了越来越大的作用。随着近年来持续的政策支持和实践探索，覆盖面逐步扩大，“粗略”的农业保险框架已经在实践中搭建起来，并且有了不同的模式，进一步发展完善则需要农业保险进行“精细化”的提升。</span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /-->
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    所谓“精细化”的提升，其实就是指在低水平、广覆盖的标准之上，有更多的技术上的支持，使得农业保险体系在需求上更能满足广大农业生产者，在供给上更能支持保险公司积极、可持续地经营。从这个角度来讲，值得研究的问题不少，这里仅讨论几个方面。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    首先，目前很多险种的保额较低，难以满足农民的需求，可积极研究提高保额的技术。这里的保额低是一个相对的概念，具体的形式包括起赔标准高、“封顶赔付”等。很多种植业险种是成本赔付的原则，在赔付标准上，有的地方规定种植业损失三成以下的免赔，绝收所赔付的成本中，也存在未体现通货膨胀的影响及难以体现全部成本，如人工成本的情形。而“封顶赔付”则指某地区当年农业保险单一险种赔偿总额在当年该险种保费总额（包括各级政府补贴和农户自缴的保费总和）若干倍以上的部分，当地政府及承保公司就不再承担赔偿责任了。笔者在调研中发现，这些情形的存在使得很多农民觉得农业保险“不解渴”。不可否认，从农业保险需求者的角度来说，存在因感觉保费负担大而没有投保积极性的，但也存在很多可以承担一定保费，却无法买到“足量”产品的需求者。免赔的部分以及超过一定额度的损失无法得到赔偿，势必会降低参保的积极性，那么保险公司提高保障的难度又在哪呢？第一，扩大赔付范围将会大幅提高理赔成本。以三成以下免赔为例，这个部分的损失如果包括在赔付范围内的话，将会大大提高勘灾定损成本。理论上来说，一些财产保险的理赔需要借助庞大的中介体系来完成，如车险的理赔离不开<span lang="EN-US">4S店和汽车修理厂，农业保险也是一样，单纯依靠保险公司的理赔人员进行损失的勘察，在中国以农户分散生产为特点的情况下肯定是不现实的，而如果借助村委会或其他形式的农民生产互助组织进行灾情的上报，虽然成本可以降低，但又存在如何限制道德风险的技术问题。第二，农机成本和人工成本的赔付是现实的需求，尤其近年来人工成本上涨较大，如果受灾，这将是一笔很大的损失，但此成本的评估也同样存在道德风险。第三，如果赔付不封顶，一旦遭受大灾，对保险公司经营的影响是很大的，如果大灾准备金制度不完善，大灾准备金不充分的话，这一条也无法满足现实的需求。</span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    其次，可推出农产品价格保险。如果说当前成本赔付的主流仍需争取进一步扩大赔付的话，谈及农产品价格保险可能有更远期目标之嫌。但农产品价格风险确实是农民所面对的、不可回避的一类主要农业生产风险，而农产品价格保险在一些国家已有先例，并不是新鲜事物。中国的农民不像美国的农民以大农场主为特征，我们不具备自行通过农产品价格风险管理的常规渠道，衍生品市场进行风险转移，那么为了保护和促进农业生产的积极性，农业保险中包括价格保险产品就具有重要的意义。这对保险公司技术上的要求更高一些，当然也有政策支持方面的因素。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    再次，应积极探索创新的模式应对逆向选择。农业保险中存在很强的逆向选择倾向，例如自然灾害发生频繁的地区和风险高的农户就会愿意投保，自然灾害少的地区和风险低的农户则不愿意投保；再如，一些农户虽主动上门要求投保，但只愿意选择地势低洼、容易受灾的部分农田投保，而对相对不容易受灾的农田则不愿意投保。这类现象最终导致农业保险的保费过高，或者经营农保的公司亏损，或者国家补贴太多而财政包袱过重，或者兼而有之。应对逆向选择，经典的做法包括在承保上下功夫，细化风险分级与费率分级，但对于农业保险这一险种，近期显然不适合采取这种做法。除此之外，还可以通过扩大投保覆盖面，利用大数法则稀释逆向选择的负面影响，这就需要保险公司的技术创新，如和农业龙头企业、村委会等合作，实践中已能看到某些模式发挥了较好的作用。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    从上面的分析可以看出，农业保险的进一步的发展依赖于风险分散机制的建立与完善，只有具备了有力的后援和“底气”，保险公司才有可能放开手脚，提供更符合农民需求的产品，当然，保险公司自身也许在技术上进行提高，提高技术创新的能力，当供需双方能够联动时，农业保险将会为农业在不可避免的风险中稳步发展提供充分的保障。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US" style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">
+<o:p>
+         
+     </o:p></span></span></p>
+<p align="right" class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">转载于《中国保险报》“北大保险评论”<span lang="EN-US">385期，<span lang="EN-US">2013.02.05</span></span></span></p>

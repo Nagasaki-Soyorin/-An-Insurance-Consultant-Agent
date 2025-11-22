@@ -1,0 +1,27 @@
+<p align="center" class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">2012-05-22</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"> </span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    又到五月，转眼间“<span lang="EN-US">512”汶川地震已经过去四周年了，虽然灾后重建已然取得有目共睹的成效，但在利用市场手段进行巨灾风险管理的道路上，我们却并未前进太多。当然，巨灾保险不仅在中国难以实践，在世界上也是巨灾风险管理领域的难题，主要原因在于巨灾风险的特殊性造成传统保险承保能力不足，在传统保险的框架下，这些特殊性可能导致巨灾保险的崩溃。</span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /-->
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    首先，对于巨灾风险来说，获得其具备一定精度的损失概率分布较为困难，尤其是空间上的精度，没有概率分布就难以计算出标的物期望损失大小，从而难以制定精算公平保费。保险公司要么不愿承保，要么提高定价，价格可能超出需要保险保障的普通居民和中小企业支付能力，这些均导致巨灾风险很难被保险保障。其次，可能会发生巨额损失，这对准备金提出了远高于一般保险业务的需要，保险公司须保持有大量流动资产以应对巨灾风险造成的难以预期的损失，在现实的商业保险公司中难以实现。再次，巨灾损失迅速评估的成本较大，巨灾往往带来交通中断，无形中为理赔带来困难。最后，大面积自然灾害中，传统的保险标的是不独立的，而大量独立、同质的风险标的是保险的理论基础。一旦巨灾发生，大量同时的索赔要求很容易就将导致一个成熟的保险公司破产。解决不独立的方法可以归结为保险系统内外的风险分散。系统内的分散涉及交叉补贴中的公平、道德风险与逆选择问题，系统外的分散主要是将风险转移到其他市场上，如证券化，证券化中也存在道德风险与基差风险，有些产品中的问题一直没有解决，如上世纪曾经交易过的巨灾期权，后来就销声匿迹了。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    虽然巨灾风险不是理想的可保风险，但国际上已经存在一些巨灾保险计划，包括：美国国家洪水保险计划（<span lang="EN-US">NFIP）、土耳其巨灾保险共同体（<span lang="EN-US">TCIP）、加勒比海地区巨灾风险共保基金（<span lang="EN-US">CCRIF）、日本家庭地震保险、加州地震局（<span lang="EN-US">CEA）、夏威夷飓风减灾基金（<span lang="EN-US">HHRF）、佛罗里达飓风保险等，有些发展势头良好，有些也遇到了困难。这些巨灾保险计划是如何解决上述问题的？我们可以从中吸取什么教训？这是值得我们思考的问题。</span></span></span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    美国国家洪水保险计划建立在一个较为完善的灾害管理体系的基础上，它具有以下特点：（<span lang="EN-US">1）以社区为基础并带有一定的强制性。这缓解了可保条件的第一条和第四条。（<span lang="EN-US">2）提供基本保障，这缓解了可保条件的第二条。（<span lang="EN-US">3）保费收入上缴国家洪水保险基金，赔付由国家洪水保险基金支付，当损失超过历史平均水平时，<span lang="EN-US">NFIP有权向财政部进行有息贷款，如果<span lang="EN-US">NFIP有更多融资需要，国会将授权提高其贷款限额，甚至还可能会提供特别拨款。这种风险分散机制也是为了应对第二条。（<span lang="EN-US">4）费率厘定兼顾科学性和特殊性。</span></span></span></span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    土耳其<span lang="EN-US">92%的国土处于北安纳托利亚断层带上，这是一个强活动断裂带，地震风险很高。土耳其的保险市场也不发达，保险覆盖率低，人均保险深度不足。即便是这样薄弱的基础条件，<span lang="EN-US">TCIP也运行良好，作为独立的地震保险，<span lang="EN-US">2009年其平均投保率已达到<span lang="EN-US">26.45%，其经验可以总结为：（<span lang="EN-US">1）绘制了地震风险图，使得费率厘定有据可依。（<span lang="EN-US">2）尽可能降低成本并提高效率。（<span lang="EN-US">3）缩小范围。在<span lang="EN-US">TCIP中，地震保险所承保标的仅限于市区范围内的居民住房。以上都在某种程度上缓解了可保条件的第二条。（<span lang="EN-US">4）强制性及风险分散。为了扩大地震保险市场，<span lang="EN-US">TCIP采取了一定程度的强制性，并修订《灾害法》<span lang="EN-US">7926号条款，解除了政府提供居民住房破损的重建资金的义务，迫使居民转向灾害保险。这使得大数定律尽可能成立。</span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    加勒比海地区巨灾风险共保基金也是在世行的帮助下成立的，它有两个突出特点，一是以国家为单位投保，保险标的是加勒比海地区的成员国，这使得损失概率分布的细化问题不复存在；二是指数赔付机制，极大地降低了损失评估的成本。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    总结这些已有巨灾保险模式的特点，首先，对于不可保条件的第一条，即具备一定精度的损失概率分布获得困难，可以在成立专门管理机构和各部门配合的基础上，通过指数保险和扩大保险标的范围来缓解，在保险标的的范围方面，可以突破传统保险中保险标的的概念，适当扩大范围。其次，针对可能发生巨额损失，在明确公私合营的经营思路及政府承担最终风险的基础上，多渠道筹集巨灾基金，采取小保单、制度性防灾防损及多层次风险分散的方法。再次，可以利用指数机制及聘请专业机构来降低损失评估的成本。最后，针对大面积灾害下标的不独立的困境，可以尽量扩大投保范围，通过再保险与证券化可以在系统内外进行风险分散，这也可以在一定程度上解决由于大数定律不满足使得期望损失的波动范围较大的问题。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    除此之外，有三个问题还需特别注意：（<span lang="EN-US">1）法律法规保障。国际上其他巨灾保险体系都有完备的法律法规基础，可喜的是，《农业保险条例》近期已经开始征求意见了。（<span lang="EN-US">2）政府财政救济与出资巨灾保险基金及保费补贴的权衡。在财政投入相差不多的前提下，更多地投入灾害救济与灾后重建，还是巨灾保险基金，这是一个矛盾，需要从效率的角度及长期的视角寻求答案。（<span lang="EN-US">3）巨灾小额保险。巨灾保险体系应覆盖多种需求，中国有大量中低收入者，巨灾小额保险是一个可行方案，可以深入讨论。</span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"> </span></p>
+<p align="right" class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体"><font size="3">转载于《中国保险报》“北大保险评论”350期，2012.5.22</font></span></p>

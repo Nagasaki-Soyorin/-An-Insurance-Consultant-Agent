@@ -1,0 +1,37 @@
+<p align="right" class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体"> </span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体">    刚刚过去的<span lang="EN-US">4月，对于保险公司来说应该是十分繁忙的一个月，因为在<span lang="EN-US">4月底之前，各家保险公司要向监管机构提交一系列的报告。古云：不以规矩，不成方圆。规矩是必要的，合规也是重要的，对这一点大家应该没有分歧。但是，规矩要多少？多些好还是少些好？却是一个值得讨论的问题。</span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体"><span lang="EN-US">
+<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /-->
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体">    根据《保险法》，保险公司应当按照保险监督管理机构的规定，报送偿付能力报告、财务会计报告、精算报告、合规报告等报告。仅以风险、内控和合规为例，我们看看保险公司具体需要提交哪些报告。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体">    根据<span lang="EN-US">2007年《保险公司合规管理指引（试行）》，保险公司应当在每年<span lang="EN-US">4月<span lang="EN-US">30日前向中国保监会提交公司上一年度的“年度合规报告”。根据<span lang="EN-US">2008年《保险公司董事会运作指引》和<span lang="EN-US">2010年《关于规范报送<span lang="EN-US">&lt;保险公司治理报告<span lang="EN-US">&gt;的通知》，保险公司应当于每年<span lang="EN-US">4月<span lang="EN-US">30日前，将经董事会审议的上一年度“公司治理报告”报中国保监会。根据<span lang="EN-US">2007年《保险公司内部审计指引（试行）》，保险公司应当于每年<span lang="EN-US">4月<span lang="EN-US">30日前向中国保监会提交“内部审计工作报告”和经董事会审议的“内部控制评估报告”。<span lang="EN-US">2010年《保险公司内部控制基本准则》进一步明确，经保险公司董事会审议通过后的“内部控制评估报告”，应当于每年<span lang="EN-US">4月<span lang="EN-US">30日前以书面和电子文本方式同时报送中国保监会。根据<span lang="EN-US">2007年《保险公司风险管理指引》，保险公司应当按照本指引及偿付能力编报规则的要求，在年报中提交经董事会审议的“年度风险评估报告”。针对财产保险公司和人身保险公司，分别有更加细化的要求。根据<span lang="EN-US">2008年《关于实施财产保险公司风险评价办法（试行）的通知》，财产保险公司每年要对公司风险状况进行自我评价，并按要求撰写“年度风险自我评价报告”，报告经公司董事会审议通过后，于 
+                     <!--?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /-->
+<st1:chsdate day="30" islunardate="False" isrocdate="False" month="4" w:st="on" year="2011">
+<span lang="EN-US">4月<span lang="EN-US">30日前</span></span>
+</st1:chsdate>报保监会。根据<span lang="EN-US">2010年《人身保险公司全面风险管理实施指引》，人身保险公司应于每年<span lang="EN-US">4月<span lang="EN-US">30日前向中国保监会提交经董事会审议的法人机构“年度全面风险管理报告”。</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体">    这些“规矩”是否有些繁多了、重复了、复杂了？“规矩”要有，但不能太复杂，复杂的规矩，未必成就完美的方圆。为什么呢？至少有以下三个原因。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体">    其一，从成本收益的角度考虑。毋庸置疑，政府监管具有社会效益，但同时我们也应当考虑相应的成本，这里的成本包括企业合规成本和监管成本。一方面，企业合规是有成本的。只要有规矩存在，企业就需要投入相应的人力、物力和财力去行动，去编制报告，去合规。规矩越多，合规成本越高。这些成本最后还是由企业或消费者来承担，仍是社会的成本。另一方面，监管也是有成本的。规矩越多，除非放开不管，否则光检查被监管者是否合规，就需要付出更高的监管成本。我们的保险市场处于初级发展阶段，监管资源相对十分有限，如何将有限的保险监管资源投入到无限的为保险消费者服务之中去，这是值得深思的问题。综合起来，只有当监管的社会效益高于企业合规成本和监管成本之和，从社会总福利的角度看，才是理性的选择。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体">    其二，从信息使用的角度考虑。如果规矩太多太复杂，那么重要信息、一般信息和无关信息就可能混在一起。这样一方面，重要信息容易被淹没，信息提取和甄别成本增高，不利于提高保险监管效率；另一方面，复杂的报告有可能给某些企业以避重就轻之机，表面看似报送了一大堆报告，其实某些重要的信息反而可能被人为遗漏了。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体">    其三，从立规精神的角度考虑。为什么要立规？为什么要求合规？在保险领域，简言之就是为了保护保险消费者的合法利益。我们不是为了合规而合规，不能偏离立规的目的和初衷，否则可能不仅实现不了立规精神，而且还可能走向立规精神的反面，因为高企的合规成本最终很可能被转嫁归宿到消费者身上，加重消费者的负担。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体">    过去这些年，中国保险监管取得了许多重要的成果，这一点是有目共睹的。下一步，在合规监管方面，可以做一些改革。在此，提出几点建议供监管决策参考。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体">    第一，删繁就简，抓大放小。温家宝总理曾说，多年来，我们在转变政府职能方面做了大量工作，取得了明显成效；但是，目前的问题还很多：政府及其部门仍然管了许多不该管、管不了也管不好的事。保险监管机构也多次表示，必须进一步解放思想，彻底摆脱传统计划经济的羁绊，切实转变监管部门的职能定位，把该管的管住管好，对不该管、管不了、实际上也管不好的要坚决放手。“删繁就简三秋树，领异标新二月花”，讲的是“以少许胜多许”的意思，用在保险合规监管方面，其实也是合适的，我们要抓大放小，抓主要矛盾，抓重要信息，提高“规矩”的合理性和科学性。大道至简，只有简单明了，才能扼住要害。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体">    第二，跨越部门，整合规矩。目前在风险、内控和合规监管方面，可以说“政出多门”，涉及保险监管机构的法规部门、发展改革部门、产险监管部门、寿险监管部门等，要求报送的报告包括年度合规报告、公司治理报告、内部审计工作报告、内部控制评估报告、年度风险评估报告（产险为年度风险自我评价报告、寿险为年度全面风险管理报告）等，此外，地方保险监管机构还有不少针对保险公司分支机构的合规报告要求。从各自部门的角度看，要求保险公司提供这样或那样的报告，要求并不过分，但是综合起来看，我们发现这些报告之间存在较多的内容重复现象，导致保险公司疲于应付，增加了合规成本，而且不能提升监管效果，属于一种“无谓损失（<span lang="EN-US">deadweight loss）”。这一问题，可以通过监管机构内部跨部门的政策协调来解决，即做一项“整合规矩”的工作。 </span></span></p>
+<p><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">    第三，强化执行，奖惩分明。在“删繁就简”和“整合规矩”的基础上，在保证“规矩”的合理性和科学性的前提下，接下来的工作重点就是强化执行了。保险市场的种种乱象，与保险公司的合规意识薄弱和合规文化缺失有直接关系，而提升合规意识、培育合规文化的最佳途径之一，即是对保险公司的不合规行为，确保处罚到位，让违规者付出代价。<span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><span style="FONT-FAMILY: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'"></span></span></span></p>
+<p align="right" class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体"><font size="3">引自 《每日经济新闻》 <span lang="EN-US">2011年<span lang="EN-US">5月<span lang="EN-US">10日</span></span></span></font></span></p>
+<p align="right" class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体"><a href="http://www.nbd.com.cn/newshtml/20110510/20110510011425595.html"><font size="3">http://www.nbd.com.cn/newshtml/20110510/20110510011425595.html</font></a></span></p>

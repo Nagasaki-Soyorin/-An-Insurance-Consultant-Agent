@@ -1,0 +1,24 @@
+<p align="center" class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">2013-01-29</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"> </span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    本月<span lang="EN-US">18日国家统计局时隔十余年后再度公布了我国居民收入的基尼系数，显示近十年我国基尼系数徘徊于<span lang="EN-US">0.47～<span lang="EN-US">0.49，<span lang="EN-US">2008年后逐渐回落，<span lang="EN-US">2012年仍达到了<span lang="EN-US">0.474。而按照去年年末中国家庭金融调查与研究中心发布的数据，<span lang="EN-US">2010年我国基尼系数更是高达<span lang="EN-US">0.61。基尼系数用于衡量收入差距，其理论值介于<span lang="EN-US">0和<span lang="EN-US">1之间，国际上通常将基尼系数超过<span lang="EN-US">0.4表示收入差距突破了“警戒线”，因而上述数据表明近些年我国的收入差距持续偏高已是一个不争的事实。对于如何改善我国的收入分配，我们耳熟能详的措施包括加快城镇化进程，完善税收和社会保障体系，创造机会平等的环境，提高大众特别是低收入群体的教育水平等等，却鲜有提及发展保险业也能够改善收入分配。</span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /-->
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    想要回答“发展保险业是否能够改善收入分配”这个问题，必须先明确收入分配包括哪些内容？什么是“好”的收入分配？</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    考察收入分配问题包括两大视角：功能型和规模型。所谓“功能型”收入分配是考察各类生产要素价格的确定，而不管是谁得到了这些收入；“规模型”收入分配则考察某人或某一类人得到了多少收入，而不管他（她）或他们获得这些收入的方式和来源。规模型收入分配又可以从静态上和动态上进一步区分，“静态”主要是指收入差距，基尼系数就是衡量收入差距最常用的一个指标；“动态”主要是指收入流动性问题，即从一个时点到另一个时点，个人（或群体）的经济地位会发生怎样的变动。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    从功能型视角上看，好的收入分配是指收入应当在各类生产要素之中按贡献进行分配。生产要素不仅包括传统上的工资、利息、利润、管理技术，还应当包括“风险”。现代社会中风险无处不在，企业遭受到各式各样、愈发严重的风险威胁，一次性大额的风险事故发生就可能将企业推向经营困境甚至破产倒闭，影响企业持续获得收入的能力，熊彼特、奈特等经济学家早已认识到风险是企业经济利润的一个重要来源。以风险管理为己任的保险业虽然不能管理所有风险，但却能有效管理大多数损害风险。保险业具有识别、衡量风险的专业知识和数据资料，借助风险集合和分散机制能够对风险进行精确、合理地定价，进而作为风险要素的虚拟代表参与企业的收入分配，因而，保险业的存在和发展无疑能够改善功能型收入分配。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    居民购买保险产品的货币流动主要包括支出保险费和收到保险赔偿给付款。由于衡量收入差距所用的“收入”一般是总收入或可支配收入，居民的保险费支出是可支配收入的一种使用形式，故支出保险费丝毫不改变任何收入差距指标的度量结果；而居民收到的保险赔偿给付款（除了收回一些长期险种储蓄部分的价值外）属于居民当期获得的补偿性收入，而且往往是一次性的大额收入（年金保险例外），反而很可能会抬高居民的收入差距程度，因此，表面上看保险业对于降低居民收入差距并不能起到直接的作用。不过，我们看待这一问题不应当仅仅局限于此。若从人力资本会带来未来收入，而人力资本的实现需要以生存为前提，以健康为依托的角度看，寿险、健康险、意外险等人身保险恰恰能够填补人力资本损失对收入或财富的影响；此外，信誉也会影响经济主体的收入获取能力，信用保证险、责任险等能够做为增进信誉的工具，而家财险、机动车险等险种则能够对居民物质财产的意外损失给予补偿，一般而言，经济状况较差的主体更需要这些工具。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    对于保险业改善居民收入流动性的作用，笔者借助一些研究成果来谈谈。其一，来自国外的多项研究发现，家庭主要收入来源者一旦去世，家庭剩余成员的生活水平的下降程度平均超过<span lang="EN-US">25%，跌至贫困线以下的概率大为增加。寿险产品正是用于消除或减轻被保险人早逝对家庭收入造成的负面影响。其二，国内的一项研究发现，大病冲击使得农户人均纯收入降低<span lang="EN-US">5%～<span lang="EN-US">6%，负向影响将持续<span lang="EN-US">12～<span lang="EN-US">15年，大病冲击对中低收入农户的影响更为严重。丰富的健康险产品能够提高被保险人治疗疾病的能力，并在一定程度上对冲健康状况恶化带来的收入冲击。其三，国内另一项研究发现，灾难风险对穷人储蓄欲望的打击强于富人，造成穷人持有的财产份额更大程度地下降，进而更大程度地减少穷人的财产性收入。笔者相信，当我国的产险业得到充分发展，特别是我国的巨灾保险体系建立健全后，这一研究结论成立的基础将“不复存在”。此外，长期寿险和年金保险还具有在不确定的生命周期中改善收入分配的独特功能。</span></span></span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    综上所述，保险业内在地具有调整和改善收入分配的作用，这是保险业社会管理功能的一个组成部分，也是保险业服务经济社会发展的一个体现。那么，我国保险业应当如何更好地发挥这项功能？首先，继续做大做强保险业，不断提高保险产品的普及程度和我国的保险深度。其次，保险业改善收入分配的作用是基于其风险管理和经济保障功能，故应当更加重视发展风险保障型产品。最后，鉴于我国的城乡收入差距、地区收入差距均比较严重，保险业应当进一步开阔农村地区和偏远地区的保险市场。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"> </span></p>
+<p align="right" class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 1.0pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">转载于《中国保险报》“北大保险评论”<span lang="EN-US">384期，<span lang="EN-US">2013.01.29</span></span></span></span></p>

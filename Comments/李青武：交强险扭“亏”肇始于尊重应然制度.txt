@@ -1,0 +1,48 @@
+<p align="center" class="MsoNormal" style="MARGIN: 0cm 0cm 0pt">
+<!--?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /-->
+<st1:chsdate day="4" islunardate="False" isrocdate="False" month="8" w:st="on" year="2011">
+<span lang="EN-US" style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">2011-08-10</span>
+</st1:chsdate></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt">
+<st1:chsdate day="4" islunardate="False" isrocdate="False" month="8" w:st="on" year="2011">
+<span lang="EN-US" style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"></span>
+</st1:chsdate> </p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt">
+<st1:chsdate day="4" islunardate="False" isrocdate="False" month="8" w:st="on" year="2011">
+<span lang="EN-US" style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    8<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">月<span lang="EN-US">4日</span></span></span>
+</st1:chsdate><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">，保监会公告称，<a name="OLE_LINK14"></a><a name="OLE_LINK15"><span style="mso-bookmark: OLE_LINK14"><span lang="EN-US">2010年交强险经营亏损达<span lang="EN-US">72.4亿元，</span></span></span></a>相对于<span lang="EN-US">2009年的<span lang="EN-US">29亿亏损额，增加了<span lang="EN-US">43.4亿元。在我们质疑交强险经营亏损数字之前，首先应正本清源，正确定位交强险制度功能，改变交强险制度被扭曲的现状，降低交强险经营的制度性风险，从制度上保障交强险定价精算的公正性和经营报告的客观性。</span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /-->
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    <strong>一、正确认识交强险功能定位</strong></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    我国的交强险因其特殊性功能被盲目放大，其功能负载了难以承受之“重”，从而增加了保险公司的经营风险。因此，在确定是否为交强险减负之前，应正确认识交强险制度。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    首先，交强险属于保险产品，应遵循基本的保险原理和保险惯例，例如合法性原则、精神损害赔偿责任除外、被保险人或被保险机动车非法使用人对受害人的侵权责任成立等。其次，作为承载社会公共政策的险种，为保护受害人利益，需做些特殊的规定，主要体现为：强制投保和强制承保、受害第三人优先保护、保险公司不得以抗辩被保险人的事由抗辩受害第三人的直接请求权、免责事由法定、赔偿项目及其限额法定、保险公司对被保险人特定情形下的追偿权。而我国现行的交强险制度在保护受害人方面刚柔不当，该保护的没有保护，如驾驶员故意制造交通事故或醉驾情形下，保险公司应承担保险赔偿责任，而不是垫付责任；不该保护的保护了，例如精神损害赔偿、无责赔付；同时因追偿权欠缺，未能兼顾保险公司利益。再次，交强险属于责任险，其保险标的为被保险人对第三人承担侵权责任，如果被保险人对第三人不承担侵权责任，则保险公司就无需承担保险责任。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    <strong>二、通过修法改变交强险制度被扭曲的现状</strong></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    为加强受害人利益保护，应从<span lang="EN-US">6个方面强化保险公司责任。但是，保险公司的合法权益应得到保护，为此，应从<span lang="EN-US">5个方面剥离现行交强险担当的功能。<span lang="EN-US">1.废除保险公司“无责赔付”责任。修正交强险条例第<span lang="EN-US">23条关于“被保险人在道路交通事故中无责任的赔偿限额”的规定。<span lang="EN-US">2.剥离保险公司的精神伤害赔偿责任，废除《机动车交通事故责任强制保险条款》第<span lang="EN-US">8条第<span lang="EN-US">2款关于精神损害抚慰金赔付的规定。因为强制责任保险只解决受害人的基本保障问题，不承保侵权责任中的精神伤害，这是保险惯例的体现。<span lang="EN-US">3.废除保险期间“及时生效”的指导性意见，允许保险公司选择“于次日零时生效”。因为在交强险生效前，保护受害人的方式是机动车禁止驶入公共场所，否则还应承担刑事责任。<span lang="EN-US">4.规定受害人为<span lang="EN-US">2人以上的保险责任给付方法。各受害人从交强险限额中获得的赔偿额，应等于其<a name="OLE_LINK23"></a><a name="OLE_LINK22"><span style="mso-bookmark: OLE_LINK23">保险金额内获得的保险赔偿额</span></a>占各受害人分别在保险金额内获得的保险赔偿额之和中的比例，乘以其保险金额内获得的保险赔偿额。<span lang="EN-US">5.保险责任分项中的财产损失，仅指财产因交通事故遭受的损失，不包含因人身伤害造成的财产性赔偿责任，如医疗费、误工损失等与人身伤害关联的财产损失。</span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    任何机构不得在扭曲交强险制度情形下，肆意增加交强险功能或承保情形。例如，保监厅发〔<span lang="EN-US">2010〕<span lang="EN-US">11号文件规定：“对于主车和挂车在连接使用时发生交通事故的，要严格按两个责任限额累加进行赔付。”该规定显然增加保险公司不当的经营风险。因为，当挂车与牵引车（或主车）连接使用时，两者视为一个整体，当发生交通事故时，由承保牵引车（或主车）的保险公司承担保险责任，而不是将两个责任限额累加进行赔付；当拖车未连接时造成的损失，才由其承保人承担保险责任。这种立法例已体现在德国法中。《关于审理道路交通事故损害赔偿案件适用法律若干问题的解释（第三次征求意见稿）》第<span lang="EN-US">16条第<span lang="EN-US">2款规定：“被保险机动车在机动车第三者责任强制保险合同有效期内发生改装、加装、使用性质改变等导致危险程度增加以及影响保险费增加的，发生保险事故后，保险公司应当在机动车第三者责任强制保险责任限额范围内予以赔偿。保险公司请求投保人按照重新核定后的保费标准补足当期保险费的，应予以支持。”该解释显然侵犯了保险公司的利益，因为，被保险机动车经改装或加装等，显然违反了保险合同禁止改变保险标的的约定，同时擅自改装等行为属于违法行为，此种情形下，保险公司在赔偿受害第三人后，有权向被保险人进行追偿，而不是只能选择增加保费。该解释第<span lang="EN-US">18条规定了保险公司对未经被保险人允许擅自使用被保险机动车发生的事故承担保险责任，但未赋予保险公司的追偿权，这也侵犯了保险公司的正当权益。</span></span></span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    <strong>三、改变司法误读误用“道交法”第<span lang="EN-US">76条第<span lang="EN-US">1款规定</span></span></strong></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    司法误读误用《中华人民共和国道路交通安全法》第<span lang="EN-US">76条第<span lang="EN-US">1款规定，增加了保险公司无法估量的经营风险。司法是个依据法律规定和法理进行严密逻辑推理的过程，而不是如同使用傻瓜照相机那样简单操作。司法者只看到第<span lang="EN-US">76条第<span lang="EN-US">1款规定，却看不到该法第<span lang="EN-US">17条的规定，看不到我国《保险法》第<span lang="EN-US">65条第<span lang="EN-US">4款关于责任保险的法定解释，也不考虑侵权人对受害人的侵权责任是否成立和交强险法定保险条款的约定，只要肇事车辆购买了交强险，就判定承保人对受害人承担保险责任，忽视甚至剥夺了保险公司在特定情形下赔偿受害人后对被保险人的追偿权。</span></span></span></span></span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    <strong>四、增加交强险经营数据的公信</strong><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><strong>力</strong></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    由于保险公司在经营交强险的同时，其人员和设施也经营其他财产保险，导致公众认为保险公司将经营商业保险的成本不当分摊到交强险中，这种质疑大大降低交强险亏损数字的公信力。为化解公众的质疑，国内保险公司应在内部建立严格的防火墙制度，将经营交强险的成本与经营其他产险的成本严格分离。此外，我们的行业协会应借鉴台湾保险发展中心的做法，内部设立专门的精算中心，对交强险等险种的经营情况进行严格的财务分析，然后将分析报告向社会公布，从而增加数据的公信力。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    简单的交强险制度并不玄妙，玄妙的是涉及交强险的决策者们如何突破原有的知识局限，遵循国际保险惯例和借鉴先进保险立法经验，回归交强险制度的本来面目。因为交强险制度一旦被扭曲，我们也就失去了质疑交强险经营状况的根据。<span lang="EN-US">
+<o:p></o:p></span></span></p>

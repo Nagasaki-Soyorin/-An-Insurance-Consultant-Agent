@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>语音识别应用</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #6e8efb, #a777e3);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+        
+        .container {
+            background-color: rgba(255, 255, 255, 0.9);
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            width: 90%;
+            max-width: 600px;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        h1 {
+            color: #333;
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+        
+        .subtitle {
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 1rem;
+        }
+        
+        .status-container {
+            background-color: #f5f7ff;
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 25px;
+            min-height: 80px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .status {
+            font-size: 1.1rem;
+            color: #555;
+            margin-bottom: 10px;
+        }
+        
+        .result {
+            font-size: 1.3rem;
+            color: #333;
+            font-weight: 500;
+            min-height: 30px;
+        }
+        
+        .button-container {
+            margin: 25px 0;
+        }
+        
+        .btn {
+            background: linear-gradient(to right, #6e8efb, #a777e3);
+            color: white;
+            border: none;
+            border-radius: 50px;
+            padding: 15px 40px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(110, 142, 251, 0.4);
+            outline: none;
+        }
+        
+        .btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 20px rgba(110, 142, 251, 0.6);
+        }
+        
+        .btn:active {
+            transform: translateY(1px);
+        }
+        
+        .btn.recording {
+            background: linear-gradient(to right, #ff5e7d, #ff8a5c);
+            box-shadow: 0 4px 15px rgba(255, 94, 125, 0.4);
+        }
+        
+        .btn.recording:hover {
+            box-shadow: 0 6px 20px rgba(255, 94, 125, 0.6);
+        }
+        
+        .visualizer {
+            width: 100%;
+            height: 100px;
+            margin: 20px 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 3px;
+        }
+        
+        .bar {
+            width: 6px;
+            height: 20px;
+            background-color: #6e8efb;
+            border-radius: 3px;
+            transition: height 0.2s ease;
+        }
+        
+        .info {
+            background-color: #f0f4ff;
+            border-radius: 10px;
+            padding: 15px;
+            margin-top: 20px;
+            font-size: 0.9rem;
+            color: #555;
+            text-align: left;
+        }
+        
+        .info h3 {
+            margin-bottom: 8px;
+            color: #444;
+        }
+        
+        .info ul {
+            padding-left: 20px;
+        }
+        
+        .info li {
+            margin-bottom: 5px;
+        }
+        
+        .error {
+            color: #ff5e7d;
+            font-weight: 500;
+            margin-top: 10px;
+        }
+        
+        @media (max-width: 480px) {
+            .container {
+                padding: 20px;
+            }
+            
+            h1 {
+                font-size: 1.5rem;
+            }
+            
+            .btn {
+                padding: 12px 30px;
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>语音识别应用</h1>
+        <p class="subtitle">点击下方按钮开始语音输入，再次点击停止</p>
+        
+        <div class="status-container">
+            <div class="status" id="status">准备就绪</div>
+            <div class="result" id="result"></div>
+            <div class="error" id="error"></div>
+        </div>
+        
+        <div class="visualizer" id="visualizer"></div>
+        
+        <div class="button-container">
+            <button class="btn" id="startBtn">启动语音输入</button>
+        </div>
+        
+        <div class="info">
+            <h3>使用说明：</h3>
+            <ul>
+                <li>点击"启动语音输入"按钮开始录音</li>
+                <li>再次点击按钮停止录音并显示识别结果</li>
+                <li>请确保已允许浏览器访问麦克风</li>
+                <li>建议在安静的环境下使用以获得最佳识别效果</li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const startBtn = document.getElementById('startBtn');
+            const status = document.getElementById('status');
+            const result = document.getElementById('result');
+            const error = document.getElementById('error');
+            const visualizer = document.getElementById('visualizer');
+            
+            // 创建音频可视化效果
+            for (let i = 0; i < 30; i++) {
+                const bar = document.createElement('div');
+                bar.className = 'bar';
+                visualizer.appendChild(bar);
+            }
+            const bars = document.querySelectorAll('.bar');
+            
+            let recognition;
+            let isRecording = false;
+            
+            // 检查浏览器是否支持语音识别
+            if ('webkitSpeechRecognition' in window || 'SpeechRecognition' in window) {
+                const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+                recognition = new SpeechRecognition();
+                
+                // 配置识别参数
+                recognition.continuous = true;
+                recognition.interimResults = true;
+                recognition.lang = 'zh-CN';
+                
+                // 语音识别开始事件
+                recognition.onstart = function() {
+                    status.textContent = '正在聆听...';
+                    startBtn.textContent = '停止语音输入';
+                    startBtn.classList.add('recording');
+                    isRecording = true;
+                    error.textContent = '';
+                };
+                
+                // 语音识别结果事件
+                recognition.onresult = function(event) {
+                    let finalTranscript = '';
+                    let interimTranscript = '';
+                    
+                    for (let i = event.resultIndex; i < event.results.length; i++) {
+                        const transcript = event.results[i][0].transcript;
+                        if (event.results[i].isFinal) {
+                            finalTranscript += transcript;
+                        } else {
+                            interimTranscript += transcript;
+                        }
+                    }
+                    
+                    // 显示最终结果
+                    if (finalTranscript) {
+                        result.textContent = finalTranscript;
+                    } 
+                    // 显示临时结果
+                    else if (interimTranscript) {
+                        result.textContent = interimTranscript;
+                    }
+                    
+                    // 更新可视化效果
+                    updateVisualizer();
+                };
+                
+                // 语音识别结束事件
+                recognition.onend = function() {
+                    status.textContent = '识别结束';
+                    startBtn.textContent = '启动语音输入';
+                    startBtn.classList.remove('recording');
+                    isRecording = false;
+                    
+                    // 重置可视化效果
+                    resetVisualizer();
+                };
+                
+                // 语音识别错误事件
+                recognition.onerror = function(event) {
+                    console.error('语音识别错误:', event.error);
+                    
+                    if (event.error === 'not-allowed') {
+                        error.textContent = '麦克风访问被拒绝，请允许浏览器访问麦克风';
+                    } else if (event.error === 'audio-capture') {
+                        error.textContent = '未找到麦克风设备';
+                    } else if (event.error === 'network') {
+                        error.textContent = '网络连接问题，请检查网络';
+                    } else {
+                        error.textContent = `识别错误: ${event.error}`;
+                    }
+                    
+                    status.textContent = '识别出错';
+                    startBtn.textContent = '启动语音输入';
+                    startBtn.classList.remove('recording');
+                    isRecording = false;
+                    
+                    // 重置可视化效果
+                    resetVisualizer();
+                };
+            } else {
+                // 浏览器不支持语音识别
+                startBtn.disabled = true;
+                status.textContent = '您的浏览器不支持语音识别功能';
+                error.textContent = '请使用Chrome、Edge等现代浏览器';
+            }
+            
+            // 开始/停止语音识别
+            startBtn.addEventListener('click', function() {
+                if (!recognition) return;
+                
+                if (!isRecording) {
+                    try {
+                        recognition.start();
+                    } catch (err) {
+                        console.error('启动语音识别失败:', err);
+                        error.textContent = '启动语音识别失败，请刷新页面重试';
+                    }
+                } else {
+                    recognition.stop();
+                }
+            });
+            
+            // 更新可视化效果
+            function updateVisualizer() {
+                bars.forEach(bar => {
+                    const height = Math.floor(Math.random() * 80) + 10;
+                    bar.style.height = `${height}px`;
+                    
+                    // 随机颜色变化
+                    const blue = Math.floor(Math.random() * 55) + 200;
+                    bar.style.backgroundColor = `rgb(110, 142, ${blue})`;
+                });
+            }
+            
+            // 重置可视化效果
+            function resetVisualizer() {
+                bars.forEach(bar => {
+                    bar.style.height = '20px';
+                    bar.style.backgroundColor = '#6e8efb';
+                });
+            }
+        });
+    </script>
+</body>
+</html>

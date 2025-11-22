@@ -1,0 +1,18 @@
+<p align="center" class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">2011-07-13</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"> </span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    在一个非常重要的日子，中海油渤海原油泄漏的消息被泄露出来，奉出了一份另类献礼。无论是中海油还是沿岸政府和民众都不希望该事件的发生，但这恰恰说明风险是客观的。现在媒体已经开始关注环境污染损失索赔问题，对于一家年油气收入近<span lang="EN-US">1500亿元，利润总额<span lang="EN-US">500多亿元，职工年平均薪酬<span lang="EN-US">38.67万元，高管均薪<span lang="EN-US">460.5万元的巨无霸企业，公众恐怕不会担心它的赔付能力，这也是中国一些大型国企不愿投保环责险原因之一；但是如果事件中是一般性企业，就未必有这个赔付能力了，毕竟不是每个企业都是中海油或者<span lang="EN-US">BP，这里就要考虑事先投保环境责任保险了（以下简称环责险）；实际上从资金效率考虑，实力雄厚的公司也要考虑投保环责险。 </span></span></span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /-->
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    创造美好环境是所有人的共同心愿，但是禁绝所有的污染却是不可能的。以经济学的思维方式，对此需要考虑“外部性”对社会福利水平的影响。当企业从事有污染的生产活动影响到社会公众的福利，但却不必为此付费，就产生负的“外部性”。这时，企业生产的社会成本大于企业成本，高出的部分称为外部成本，也就是由企业以外的其他社会公众承担的成本，例如由于环境污染导致的健康支出、环境治理支出等。由于成本中不包含外部成本，因此供给曲线会向右移动，导致企业实际产量大于社会最适产量，从而对社会福利的损害超过了自己获取的增量利益。对此，经济学上的解决办法是通过制度设计将外部成本转由企业承担，即“外部成本内在化”，其手段主要有以下三种：</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    一是矫正税，又叫庇古税，在我国则通过排污费的方式体现出来。矫正税理想的征收水平应该等于该企业经营活动引起的外部成本。二是污染许可证，又叫做排放权拍卖。政府制定出总的污染排放水平，而将污染物的排放权公开拍卖，并允许排放权公开交易。因为出价最高的人，生产效率也比较高，在社会总排放水平一定的情况下，社会整体福利水平也最高。最后是环责险，又称作绿色保险，是以被<span lang="EN-US"><a href="http://baike.baidu.com/view/100455.htm" target="_blank"><span lang="EN-US"><span lang="EN-US"><font color="#136ec2" face="Times New Roman">保险人</font></span></span></a>因污染自然环境及其构成要素而依法应承担的赔偿责任作为保险对象的保险。严格的讲，这里外部成本内在化的直接原因并不是环责险，而是环境法律责任。环境法律责任通过环境保险费的方式“内在地”反映在企业成本里。矫正税、污染许可证和环责险三者都秉持了“污染者付费”和“外部成本内在化”的原则，以期实现社会资源的有效配置。但是矫正税和污染许可证收入形成政府收费的一部分，不具备直接赔付受害者（外部成本的实际承担者）的功能；而环责险的直接补偿对象是环境污染的受害者，因而兼顾了效率与公正，在实现社会正义、构建和谐社会方面效果更好。</span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    当然我们必须认识到，环责险不能完全代替矫正税和排放权拍卖。一方面，环责险是建立在较为完善的侵权法律基础之上，环责险处理的赔付须以受害人提起法律形式上的索赔并获得法律支持为前提，然而外部成本承担者可能并不知晓自己是受害者，或者知晓但缺乏相关法律保护而索赔不成功，因此减少了对环责险的需求。但是这反过来说明一个问题，责任法律制度越完善的社会，环责险在外部成本内在化过程中的地位越重要，环责险保费占外部成本的比率就越高。另一方面，环境政策的决策过程并非纯粹是一个经济学思维的过程，选择何种经济调节手段还要做社会、政治甚至民俗习惯等多个方面的考量。但是如果存在选择的可能，则应该是以强制环责险（当然不排斥自愿保险）、拍卖污染许可证、矫正税（征管成本较高）、行政管制（这是一种最无效率且最容易导致权力寻租与滋生腐败的手段）的优选顺序，只有在前面的手段不能选择，或者不能充分发挥作用的情况下再考虑选择后面的手段。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    环责险在国外是一种非常普遍的险种，在中国的推进工作却困难重重，相关研讨会开了不少，但似乎对于提高环责险意识收效甚微，试点工作也多不理想。这里原因是多方面的，譬如，侵权赔偿法规体系不完善、保险公司产品不完善等等，都可能是其中重要原因，需要进一步加以解决。这里主要澄清地方政府和企业的认识误区。对环责险存在犹疑甚至拒绝态度的主要有两类企业，一种是一些抗风险能力差的企业，企业支付能力弱，认为环责险加重了企业负担，不愿投保环境污染责任险。有些企业甚至声称：如果强制他们购买环责险，将导致企业关门。如果真是这样的话，也恰恰说明该企业具有严重的负的“外部性”，因为一旦通过环责险将外部成本内在化，而且只是一部分外部成本内在化，该企业便经营不下去，也就是边际利润为零或负数，这本来就是一类应该淘汰的企业，因为它的生产活动损害了社会的整体福利。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
