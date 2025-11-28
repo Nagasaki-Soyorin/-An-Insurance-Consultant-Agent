@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>保险咨询AI智能体</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: #fff;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 2rem;
+        }
+        
+        .container {
+            width: 100%;
+            max-width: 1100px;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 2rem;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            margin-top: 2rem;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        
+        .subtitle {
+            font-size: 1.2rem;
+            opacity: 0.8;
+        }
+        
+        .recording-section {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-bottom: 2rem;
+        }
+        
+        .record-btn {
+            background: linear-gradient(to right, #ff416c, #ff4b2b);
+            color: white;
+            border: none;
+            border-radius: 50px;
+            padding: 1rem 2rem;
+            font-size: 1.2rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            transition: all 0.3s ease;
+            box-shadow: 0 5px 15px rgba(255, 65, 108, 0.4);
+        }
+        
+        .record-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(255, 65, 108, 0.6);
+        }
+        
+        .record-btn.recording {
+            background: linear-gradient(to right, #ff4b2b, #ff416c);
+            animation: pulse 1.5s infinite;
+        }
+        
+        @keyframes pulse {
+            0% {
+                box-shadow: 0 0 0 0 rgba(255, 65, 108, 0.7);
+            }
+            70% {
+                box-shadow: 0 0 0 15px rgba(255, 65, 108, 0);
+            }
+            100% {
+                box-shadow: 0 0 0 0 rgba(255, 65, 108, 0);
+            }
+        }
+        
+        .status {
+            margin-top: 1rem;
+            font-size: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .status-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background-color: #4CAF50;
+        }
+        
+        .status-dot.recording {
+            background-color: #ff4b2b;
+            animation: blink 1s infinite;
+        }
+        
+        @keyframes blink {
+            0% { opacity: 1; }
+            50% { opacity: 0.3; }
+            100% { opacity: 1; }
+        }
+        
+        .transcript-section, .response-section, .task-section {
+            margin-bottom: 2rem;
+        }
+        
+        h2 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: #4facfe;
+        }
+        
+        .transcript-box, .response-box {
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+            padding: 1.5rem;
+            min-height: 120px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .transcript-text, .response-text {
+            line-height: 1.6;
+        }
+        
+        .task-cards {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+        
+        .task-card {
+            flex: 1;
+            min-width: 200px;
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+            padding: 1.5rem;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            text-align: center;
+            transition: transform 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .task-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .task-card.active {
+            border-color: #4facfe;
+            box-shadow: 0 5px 15px rgba(79, 172, 254, 0.3);
+        }
+        
+        .task-card.processing::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(79, 172, 254, 0.2), transparent);
+            animation: shimmer 1.5s infinite;
+        }
+        
+        @keyframes shimmer {
+            0% { left: -100%; }
+            100% { left: 100%; }
+        }
+        
+        .task-icon {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        
+        .task-title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+        }
+        
+        .task-description {
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+        
+        .placeholder {
+            color: rgba(255, 255, 255, 0.5);
+            font-style: italic;
+        }
+        
+        .loading {
+            display: none;
+            text-align: center;
+            margin: 1rem 0;
+        }
+        
+        .spinner {
+            border: 4px solid rgba(255, 255, 255, 0.3);
+            border-radius: 50%;
+            border-top: 4px solid #4facfe;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        /* 新增：处理状态提示 */
+        .processing-status {
+            display: none;
+            background: rgba(255, 193, 7, 0.2);
+            border: 1px solid rgba(255, 193, 7, 0.5);
+            border-radius: 10px;
+            padding: 1rem;
+            margin: 1rem 0;
+            text-align: center;
+            animation: statusPulse 2s infinite;
+        }
+        
+        @keyframes statusPulse {
+            0% { box-shadow: 0 0 0 0 rgba(255, 193, 7, 0.4); }
+            70% { box-shadow: 0 0 0 10px rgba(255, 193, 7, 0); }
+            100% { box-shadow: 0 0 0 0 rgba(255, 193, 7, 0); }
+        }
+        
+        .processing-status .status-icon {
+            font-size: 2rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .processing-status .status-text {
+            font-weight: bold;
+            color: #FFC107;
+        }
+        
+        /* 新增：DataFrame表格样式 */
+        .dataframe-container {
+            overflow-x: auto;
+            margin: 1rem 0;
+            border-radius: 8px;
+            background: rgba(255, 255, 255, 0.05);
+        }
+        
+        .dataframe-table {
+            width: 100%;
+            border-collapse: collapse;
+            min-width: 600px;
+        }
+        
+        .dataframe-table th {
+            background: rgba(79, 172, 254, 0.3);
+            padding: 12px 15px;
+            text-align: left;
+            font-weight: 600;
+            border-bottom: 2px solid rgba(79, 172, 254, 0.5);
+        }
+        
+        .dataframe-table td {
+            padding: 10px 15px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .dataframe-table tr:hover {
+            background: rgba(255, 255, 255, 0.05);
+        }
+        
+        .dataframe-table tr:last-child td {
+            border-bottom: none;
+        }
+        
+        /* 新增：文本响应样式 */
+        .text-response {
+            line-height: 1.8;
+            padding: 1rem;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 8px;
+            border-left: 4px solid #4facfe;
+        }
+        
+        /* 新增：响应类型标签 */
+        .response-type {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            margin-bottom: 1rem;
+        }
+        
+        .response-type.dataframe {
+            background: rgba(76, 175, 80, 0.3);
+            color: #4CAF50;
+        }
+        
+        .response-type.text {
+            background: rgba(33, 150, 243, 0.3);
+            color: #2196F3;
+        }
+        
+        /* 新增：响应内容区域 */
+        .response-content {
+            margin-top: 1rem;
+        }
+        
+        footer {
+            margin-top: 2rem;
+            text-align: center;
+            font-size: 0.9rem;
+            opacity: 0.7;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>保险咨询AI智能体</h1>
+        <p class="subtitle">语音输入，智能解答您的保险问题</p>
+    </header>
+    
+    <div class="container">
+        <div class="recording-section">
+            <button id="recordBtn" class="record-btn">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M12 14C13.66 14 15 12.66 15 11V5C15 3.34 13.66 2 12 2C10.34 2 9 3.34 9 5V11C9 12.66 10.34 14 12 14Z" fill="white"/>
+                    <path d="M17 11C17 14.31 14.31 17 11 17C7.69 17 5 14.31 5 11H3C3 15.42 6.58 19 11 19C15.42 19 19 15.42 19 11H17Z" fill="white"/>
+                </svg>
+                开始录音
+            </button>
+            
+            <div class="status">
+                <div class="status-dot"></div>
+                <span id="statusText">准备就绪</span>
+            </div>
+        </div>
+        
+        <div class="transcript-section">
+            <h2>语音转文字结果</h2>
+            <div class="transcript-box">
+                <div id="transcriptText" class="transcript-text placeholder">您的语音内容将显示在这里...</div>
+            </div>
+        </div>
+        
+        <!-- 新增：处理状态提示区域 -->
+        <div id="analyzingStatus" class="processing-status">
+            <div class="status-icon">🔍</div>
+            <div class="status-text">正在分析传入文本...</div>
+            <div>系统正在识别您的需求类型</div>
+        </div>
+        
+        <div id="processingStatus" class="processing-status">
+            <div class="status-icon">⚙️</div>
+            <div class="status-text">正在处理任务...</div>
+            <div>系统正在生成专业的分析结果</div>
+        </div>
+        
+        <div class="task-section">
+            <h2>任务类型识别</h2>
+            <div class="task-cards">
+                <div class="task-card" id="marketOverviewCard">
+                    <div class="task-icon">📊</div>
+                    <div class="task-title">产品市场概览</div>
+                    <div class="task-description">分析保险产品市场情况、竞争格局和产品特点</div>
+                </div>
+                <div class="task-card" id="macroAnalysisCard">
+                    <div class="task-icon">🌐</div>
+                    <div class="task-title">宏观保险分析</div>
+                    <div class="task-description">分析保险行业发展趋势、政策环境和宏观经济影响</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="loading" id="loadingIndicator">
+            <div class="spinner"></div>
+            <p>AI正在处理您的问题...</p>
+        </div>
+        
+        <div class="response-section">
+            <h2>AI回复</h2>
+            <div class="response-box">
+                <div id="responseText" class="response-text placeholder">AI回复将显示在这里...</div>
+                <div id="responseContent" class="response-content"></div>
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>保险咨询AI智能体 &copy; 2023 - 您的智能保险助手</p>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const recordBtn = document.getElementById('recordBtn');
+            const statusText = document.getElementById('statusText');
+            const transcriptText = document.getElementById('transcriptText');
+            const responseText = document.getElementById('responseText');
+            const responseContent = document.getElementById('responseContent');
+            const statusDot = document.querySelector('.status-dot');
+            const loadingIndicator = document.getElementById('loadingIndicator');
+            const marketOverviewCard = document.getElementById('marketOverviewCard');
+            const macroAnalysisCard = document.getElementById('macroAnalysisCard');
+            const analyzingStatus = document.getElementById('analyzingStatus');
+            const processingStatus = document.getElementById('processingStatus');
+            
+            let recognition = null;
+            let isRecording = false;
+            let finalTranscript = '';
+            
+            // 检查浏览器是否支持语音识别
+            if ('webkitSpeechRecognition' in window) {
+                recognition = new webkitSpeechRecognition();
+                recognition.continuous = true;
+                recognition.interimResults = true;
+                recognition.lang = 'zh-CN';
+                
+                recognition.onstart = function() {
+                    isRecording = true;
+                    recordBtn.classList.add('recording');
+                    recordBtn.innerHTML = '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="6" y="6" width="12" height="12" rx="1" fill="white"/></svg>停止录音';
+                    statusText.textContent = '正在录音...';
+                    statusDot.classList.add('recording');
+                    transcriptText.textContent = '正在聆听...';
+                    transcriptText.classList.remove('placeholder');
+                    
+                    // 重置任务卡片状态
+                    marketOverviewCard.classList.remove('active');
+                    macroAnalysisCard.classList.remove('active');
+                    marketOverviewCard.classList.remove('processing');
+                    macroAnalysisCard.classList.remove('processing');
+                    
+                    // 清空之前的响应内容
+                    responseContent.innerHTML = '';
+                    responseText.textContent = '';
+                    
+                    // 隐藏状态提示
+                    analyzingStatus.style.display = 'none';
+                    processingStatus.style.display = 'none';
+                };
+                
+                recognition.onresult = function(event) {
+                    let interimTranscript = '';
+                    
+                    for (let i = event.resultIndex; i < event.results.length; i++) {
+                        if (event.results[i].isFinal) {
+                            finalTranscript += event.results[i][0].transcript;
+                        } else {
+                            interimTranscript += event.results[i][0].transcript;
+                        }
+                    }
+                    
+                    transcriptText.textContent = finalTranscript + interimTranscript;
+                };
+                
+                recognition.onerror = function(event) {
+                    console.error('语音识别错误:', event.error);
+                    statusText.textContent = '识别错误: ' + event.error;
+                };
+                
+                recognition.onend = function() {
+                    isRecording = false;
+                    recordBtn.classList.remove('recording');
+                    recordBtn.innerHTML = '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 14C13.66 14 15 12.66 15 11V5C15 3.34 13.66 2 12 2C10.34 2 9 3.34 9 5V11C9 12.66 10.34 14 12 14Z" fill="white"/><path d="M17 11C17 14.31 14.31 17 11 17C7.69 17 5 14.31 5 11H3C3 15.42 6.58 19 11 19C15.42 19 19 15.42 19 11H17Z" fill="white"/></svg>开始录音';
+                    statusText.textContent = '准备就绪';
+                    statusDot.classList.remove('recording');
+                    
+                    // 发送转录文本到服务器
+                    if (finalTranscript) {
+                        sendToServer(finalTranscript);
+                    }
+                };
+            } else {
+                recordBtn.disabled = true;
+                statusText.textContent = '您的浏览器不支持语音识别';
+            }
+            
+            // 录音按钮点击事件
+            recordBtn.addEventListener('click', function() {
+                if (!recognition) return;
+                
+                if (isRecording) {
+                    recognition.stop();
+                } else {
+                    finalTranscript = '';
+                    recognition.start();
+                }
+            });
+            
+            // 发送文本到服务器
+            function sendToServer(text) {
+                loadingIndicator.style.display = 'block';
+                
+                // 显示分析状态
+                analyzingStatus.style.display = 'block';
+                processingStatus.style.display = 'none';
+                
+                // 模拟任务分发过程的可视化
+                setTimeout(() => {
+                    marketOverviewCard.classList.add('processing');
+                    macroAnalysisCard.classList.add('processing');
+                }, 500);
+                
+                // 在实际应用中，这里应该替换为您的服务器URL
+                fetch('http://localhost:5000/process', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ text: text })
+                })
+                .then(response => response.json())
+                .then(data => {
+                    loadingIndicator.style.display = 'none';
+                    analyzingStatus.style.display = 'none';
+                    processingStatus.style.display = 'none';
+                    
+                    // 移除处理状态动画
+                    marketOverviewCard.classList.remove('processing');
+                    macroAnalysisCard.classList.remove('processing');
+                    
+                    // 显示任务类型
+                    if (data.task_type) {
+                        if (data.task_type === '产品市场概览') {
+                            marketOverviewCard.classList.add('active');
+                            macroAnalysisCard.classList.remove('active');
+                        } else if (data.task_type === '宏观保险分析') {
+                            macroAnalysisCard.classList.add('active');
+                            marketOverviewCard.classList.remove('active');
+                        }
+                    }
+                    
+                    // 显示AI回复
+                    displayResponse(data);
+                })
+                .catch(error => {
+                    loadingIndicator.style.display = 'none';
+                    analyzingStatus.style.display = 'none';
+                    processingStatus.style.display = 'none';
+                    marketOverviewCard.classList.remove('processing');
+                    macroAnalysisCard.classList.remove('processing');
+                    
+                    console.error('发送请求时出错:', error);
+                    responseText.textContent = '抱歉，处理您的请求时出现了错误。请稍后再试。';
+                    responseText.classList.remove('placeholder');
+                    responseContent.innerHTML = '';
+                });
+            }
+            
+            // 显示响应内容
+            function displayResponse(data) {
+                responseText.textContent = data.response || '';
+                responseText.classList.remove('placeholder');
+                
+                // 清空之前的响应内容
+                responseContent.innerHTML = '';
+                
+                // 根据响应类型显示不同内容
+                if (data.response_type === 'dataframe' && data.dataframe) {
+                    // 显示DataFrame表格
+                    const typeLabel = document.createElement('div');
+                    typeLabel.className = 'response-type dataframe';
+                    typeLabel.textContent = '📊 数据表格';
+                    responseContent.appendChild(typeLabel);
+                    
+                    const tableContainer = document.createElement('div');
+                    tableContainer.className = 'dataframe-container';
+                    
+                    const table = document.createElement('table');
+                    table.className = 'dataframe-table';
+                    
+                    // 创建表头
+                    const thead = document.createElement('thead');
+                    const headerRow = document.createElement('tr');
+                    
+                    if (data.dataframe.columns && data.dataframe.columns.length > 0) {
+                        data.dataframe.columns.forEach(column => {
+                            const th = document.createElement('th');
+                            th.textContent = column;
+                            headerRow.appendChild(th);
+                        });
+                    }
+                    
+                    thead.appendChild(headerRow);
+                    table.appendChild(thead);
+                    
+                    // 创建表格主体
+                    const tbody = document.createElement('tbody');
+                    
+                    if (data.dataframe.data && data.dataframe.data.length > 0) {
+                        data.dataframe.data.forEach(row => {
+                            const tr = document.createElement('tr');
+                            row.forEach(cell => {
+                                const td = document.createElement('td');
+                                td.textContent = cell;
+                                tr.appendChild(td);
+                            });
+                            tbody.appendChild(tr);
+                        });
+                    }
+                    
+                    table.appendChild(tbody);
+                    tableContainer.appendChild(table);
+                    responseContent.appendChild(tableContainer);
+                    
+                } else if (data.response_type === 'text' && data.detailed_response) {
+                    // 显示详细文本响应
+                    const typeLabel = document.createElement('div');
+                    typeLabel.className = 'response-type text';
+                    typeLabel.textContent = '📝 详细分析';
+                    responseContent.appendChild(typeLabel);
+                    
+                    const textDiv = document.createElement('div');
+                    textDiv.className = 'text-response';
+                    textDiv.textContent = data.detailed_response;
+                    responseContent.appendChild(textDiv);
+                }
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<p align="center" class="MsoNormal" style="MARGIN: 0cm 0cm 0pt">
+<!--?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /-->
+<st1:chsdate day="14" islunardate="False" isrocdate="False" month="5" w:st="on" year="2012">
+<span lang="EN-US" style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">2012-05-29</span>
+</st1:chsdate></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt">
+<st1:chsdate day="14" islunardate="False" isrocdate="False" month="5" w:st="on" year="2012">
+<span lang="EN-US" style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"></span>
+</st1:chsdate><font size="3"> </font></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt">
+<st1:chsdate day="14" islunardate="False" isrocdate="False" month="5" w:st="on" year="2012">
+<span lang="EN-US" style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    5<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">月<span lang="EN-US">14日</span></span></span>
+</st1:chsdate><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">保监会发布的《关于保险资金运用监管有关事项的通知》（下称《通知》），不仅细化了保险资金重大股权投资和保险资产管理产品发行的规则，而且放开了以往无担保债投资中的“禁地”。这对于正在困境中踯躅辗转寻找出路的保险资金而言无疑是一重大的利好消息。不过，笔者以为，《通知》的重大利好并不仅仅是众人聚焦的投资渠道放开，还有其中所传递出的监管方式转变的信号。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /-->
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    鉴于保险资金运用对安全性和流动性的特殊要求，各国保险监管部门都会根据自身投资环境的特点和保险机构的投资管理能力等具体国情，对保险资金运用的范围和比例做出直接或间接的限制，并会依据实际情况的变化而相应调整法规，改变监管模式。随着金融市场发展和保险机构投资者的成熟，如今越来越多的国家对保险资金运用的监管已经从直接的渠道和比例限制过渡到侧重于偿付能力的间接监管。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    我国自<span lang="EN-US">2005年保险资金获准入市至今，根据我国金融市场发展和我国保险机构投资经验积累和管理能力的状况，保监会不断加快拓宽保险投资渠道的步伐，投资渠道和比例都得到了充分扩展。此次《通知》的发布，进一步拓展了投资渠道和比例。《通知》指出，保监会对重大股权投资、保险资产管理产品初次申报实施合规性、程序性审核，同类产品只需事后报告；对于重大股权投资范围之外的其他股权投资，也只需按规定事后报告；保险机构可以投资以簿记建档方式公开发行的已上市交易的无担保企业债、非金融企业债务融资工具和商业银行发行的无担保可转换公司债等债券；保险机构应当严格遵守投资比例规定，但保监会将根据有关情况，适当调整保险资金运用的投资比例，并将出台《资金运用办法》等规定中有待完善的业务规则；重大股权投资和不动产投资需要有专业团队等等。从这些内容中我们欣喜地看到：监管规则虽然细化了，但审核流程却更加简化了；投资渠道虽然放开了，但偿付能力却依然是硬约束指标；投资比例虽然放宽了，但对专业化的要求却更高了。《通知》表明，在不放弃基本原则的前提下，保监会将给予保险机构的资金运用以更多的操作灵活性和更快速应对市场变化的自由度，而风险也将由保险机构自行承担，保监会则仅偏重于对保险机构偿付能力的监管和控制，并进行差异化的分类监管。这种监管理念和方式的转变充分地体现了监管部门适应当前我国宏观经济形势发展与时俱进的精神。</span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    由于不同的监管模式在很大程度上影响着保险资金运用的结构和效果，而<span lang="EN-US">2005年之前我国对保险资金运用的渠道和比例一直采取严格的监管，因此，长期以来社会各界普遍把关注焦点聚集在保险投资渠道放开的问题上。眼下投资渠道放开的问题已得到了基本解决，因此，如何充分地把握政策机遇，合理高效的运用保险资金就成为当前作为保险资金运用主体的保险机构必须认真研究并切实解决的当务之急。</span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    我们的分析表明，我国保险资金运用始终存在着收益率偏低，资产配置的结构不尽合理的问题。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    从资金运用结构分析，自<span lang="EN-US">2005年保险资金允许入市以来，大量的保险资金仍然被配置在固定收益产品上，银行存款和债券合计占比一般都在<span lang="EN-US">80%以上。虽然资金运用的结构也表现出跟随着宏观经济波动而做出相应调整的特征，但调整的幅度和比例并不明显，反映出我国保险机构对市场机会的预测和把握能力不强，投资机制不够灵活，面对市场环境变化反应不快，资产配置调整缓慢。例如，近两年来，我国私募股权市场取得了长足的发展，投资收益巨大，吸引了大量的资本流入。然而，我国保险公司在政策允许的背景下却并没有在此领域取得较大的突破，从而错过了近年私募股权市场快速发展的时期。也许我们可以把私募股权领域投资发展缓慢的原因归咎于其它客观原因，那么我们不妨将其与对投资安全性具有同样较高要求的社保基金对比。以<span lang="EN-US">2009年为例，在反弹股市行情下，社保基金较早就开始实施资产配置结构的调整，通过降低固定收益产品类的投资比例，提高权益类产品的投资比例，使得固定收益产品的投资比例从年初的<span lang="EN-US">56.28%下降到年底的<span lang="EN-US">40.67%，下降幅度高达<span lang="EN-US">15.61%；对境内外股票投资占比从年初的<span lang="EN-US">21.98%上升到<span lang="EN-US">32.45%，上升了<span lang="EN-US">10.47%，对实业投资占比从年初的<span lang="EN-US">14.57%上升到<span lang="EN-US">20.54%，对现金等投资占比从年初的<span lang="EN-US">7.17%下降到<span lang="EN-US">6.34%。由于调整迅速，使得当年实现了高达<span lang="EN-US">16.12%的投资收益率。而同期保险资金调整的情况为：股票和证券投资基金投资占比从年初的<span lang="EN-US">13.3%上升到<span lang="EN-US">18.6%，仅上升了<span lang="EN-US">5.29%，债券投资占比仅下降了<span lang="EN-US">6.85%，银行存款占比仅下降了<span lang="EN-US">1.64%，其它投资不升反降，其结果是资金运用的年收益率仅为<span lang="EN-US">6.41%。</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    从保险资金运用的效率分析，我国保险资金运用收益率长期以来都在低位徘徊。<span lang="EN-US">2005年之前均在<span lang="EN-US">5%以下。<span lang="EN-US">2005年保险资金获准入市后，资金运用收益率有所提高，但波动率也随之增大。<span lang="EN-US">2007年在股市牛市行情中虽达到了<span lang="EN-US">12.17%的历史最高点，却在<span lang="EN-US">2008年次贷危机影响下大幅下跌至<span lang="EN-US">3.38%。经历了<span lang="EN-US">2008年收益率的陡降之后，近几年的收益率一直在<span lang="EN-US">4%~6%左右震荡，<span lang="EN-US">2011年更是跌至<span lang="EN-US">3.49%的低谷，甚至无法弥补<span lang="EN-US">5.4%的<span lang="EN-US">CPI涨幅。再看全国社保基金，从<span lang="EN-US">2001年至<span lang="EN-US">2011年<span lang="EN-US">11年间，平均实现了<span lang="EN-US">8.41%的年收益率，即便是在<span lang="EN-US">2011年低迷的市场环境中，其年收益率也达到了<span lang="EN-US">5.58%。</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    目前，我国保险资金投资方式已经涵盖了固定收益市场、权益市场、银行存款、另类投资市场和境外市场等许多方面。但是，在宏观经济减速、资本市场下滑的背景下，保险资金运用的投资收益也同时出现较大滑坡，这充分暴露出我国保险资金在面临系统性风险时，资产配置的战略调整能力和抗风险能力相当薄弱。显然，险资的出路不应寄托在投资渠道的拓展，只有加强资产配置和抗风险能力的培育才能走向康庄大道。<span lang="EN-US">
+<o:p></o:p></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><font size="3"> </font></span></p>
+<p align="right" class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p>
+<span style="FONT-FAMILY: 宋体">转载于《中国保险报》“北大保险评论”351期，2012.5.29</span>
+</o:p></span></span>
+</o:p></span></span></p>

@@ -1,0 +1,32 @@
+<p align="center" class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">2012-02-02</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"> </span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    改革开放以来保险业与银行业的发展速度均高于中国<span lang="EN-US">GDP增速，而且保险业还要更突出一些。但是站在企业财务角度会发现，商业银行无论在存贷业务还是理财业务的利润贡献度都较保险业占优；而保险业务普遍存在着成本高企、利润贡献度低的问题，很多保险产品纯粹是赔本赚吆喝而毫无价值。这里有多方面的原因诸如监管因素等，但是保险与银行资产负债错配方向不同也是重要原因之一。</span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /-->
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    即便是银行与保险投资经理的投资能力和销售人员的销售能力大致相当，考虑到银行产品与保险产品在资产负债久期上的差异，银行产品在起跑线上也会领先于保险产品。我们可以分析一个指标：资产负债久期比率（资产久期<span lang="EN-US">/负债久期）。正常情况下，收益率曲线是向上倾斜的。在不考虑其他诸如信用风险等因素的情况下，该比率越高，金融产品的利润越高，同时流动性风险越大；反之，该比率越低，金融产品的利润越低，但流动性风险也越小。目前我国的情况是：保险业的负债久期长于资产久期，银行业的资产（主要是信贷资产）久期则长于负债（主要是储蓄存款）久期。虽然两类企业的资产与负债都存在期限上的错配，但由于错配的方向不同，导致银行理财产品利润率高于保险理财产品。</span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    提高资产负债久期比率有助于拉升金融产品利润率；要提高资产负债久期比率，则要么提高资产久期，要么降低负债久期。保险公司着眼于前者。我们经常听到保险业埋怨中国金融市场不够完善，难以寻找到长期性金融投资工具来匹配负债业务，说明其着眼点主要还是在于提高资产久期方面。然而，抱怨市场环境收效甚微，例如，中央政府概不会单为满足一个保险行业的资产负债管理需求而多发长期国债。其实保险公司倒是可以考虑加大保障型保险产品与期缴产品的结构比例来降低负债久期。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    相反，虽然银行业也存在资产负债久期的“错配”，我们少有听见银行对此发出抱怨。银行业这种资产负债久期的错配提高了资产负债久期比率，从而有利于提升产品利润的贡献度。我们甚至不妨大胆推测一下：资产久期高于负债久期的错配情况正是银行们所希望的。银行们可能对此加以否认，并将传统的存贷业务资产负债久期的错配情况归因于历史与监管因素。那么我们可以观察一下银行的理财业务，该业务属于银行的表外业务，有变相揽存和内部考核的因素在内，同样有自身的资产负债匹配问题。尽管受到的监管比存贷业务宽松，商业银行同样表现出强烈的将负债久期短期化的倾向，从而导致资产久期高于负债久期的错配。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    中国目前市面上出售的银行理财产品以<span lang="EN-US">3个月以内的居多，还有不少期限为<span lang="EN-US">28天、<span lang="EN-US">14天、<span lang="EN-US">7天甚至<span lang="EN-US">2天的理财产品。在最近银监会叫停<span lang="EN-US">1个月以内的理财产品后，一些银行推出了仅比银监会规定的最短期限多出几天的理财产品；还有一些银行推出滚动型理财产品来规避监管规定。这种理财产品滚动型理财以<span lang="EN-US">1天、<span lang="EN-US">7天、<span lang="EN-US">14天等期限为一个投资周期，若产品开放日投资者不赎回，则自动进入下一个投资周期。而在理财产品的资产业务运作方式主要为资产池方式，资产池中资产的平均久期则高于理财产品的负债久期形成错配。因为收益率曲线向上倾斜，资产负债久期比率偏高会导致资产收益率偏高，负债收益率（理财产品对客户的回报率）偏低，从而提升产品利润。这部分傻瓜都能获取的额外利润自然不能归功于投资经理头上，实际它是理财产品通过承担流动性风险获得的收益，这里的流动性风险指由于“错配”导致资产流动性逊于负债流动性的风险。</span></span></span></span></span></span></span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    这种流动性风险收益增强了银行理财产品的新引力，中国商业银行理财业务呈现出爆发式增长的态势。截至去年<span lang="EN-US">11月末<span lang="EN-US">,银行理财产品发行规模已达到<span lang="EN-US">15.5万亿元，是<span lang="EN-US">2010年全年发行规模<span lang="EN-US">7.05万亿元的两倍多，这个速度足以让去年市场表现最为神勇的保险公司也瞠乎其后。在发行规模创下新高的同时，去年前三季度银行理财产品平均年化预期收益率（这可是负债收益率）也达到<span lang="EN-US">4.14%，远超一年期定期存款利率，在<span lang="EN-US">2011年股债双杀的金融市场环境中，这也是一个足以傲视整个金融行业的成绩。</span></span></span></span></span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    那么，资产久期高于负债久期带来的流动性风险又如何规避呢？银行天然具备了网点与客户优势。银行在理财产品快到期有流动性需求时，通过加大对营业网点的激励力度来掌控下一期理财产品的发行规模，从而形成连续接力，因此一般不影响资金池中期限较长资产的运作。从整个银行业的角度看来，这种理财产品的流动性风险还是基本可控的。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    保险公司在资产业务方面基本上面临着与商业银行理财产品大致相当的金融环境。然而在负债方面，保险产品较之于银行理财产品的负债久期要长，那么投资者的期望收益率要较银行理财产品高。如果保险产品负债收益率定得高于银行理财产品，由于其资产久期较短，从而产品利润空间将受到挤压；如果保险公司为了确保产品利润而将负债收益率定在与银行理财产品负债收益率相当甚至较低的水平上，那么因为保险产品久期高于银行理财产品而失去市场吸引力。较之于银行，保险公司资产负债的错配虽然降低了流动性风险，但同时也影响了产品利润水平与市场销售。这也许是这几年保险产品的销售远逊于银行理财产品的主要原因之一吧。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    银行与保险的市场实践引发我们思考一个问题：我们怎样看待保险业的资产负债管理？对于资产负债管理，既不要加以漠视，使之沦落为保险公司经营管理过程中无关紧要的“软约束”；但同时也不要囿于专业门户之见，将其神化为保险资产管理价值链的“逻辑起点”和“终极目标”。在资产负债管理过程中，指望消除所有风险诸如期限错配风险、利率错配风险、流动性风险等是不可能、也是不必要的。风险与管理、垄断一样都是企业利润的来源，问题的关键在于某种风险对于本企业在多大程度上是可控的。既然如此，那么保险公司资产负债匹配管理应该遵循的理念并非是资产负债在数量与时间层面毫厘不差的对应性管理，还需考虑资产负债管理的金融市场条件以及自身行业对某种风险的承受度与控制能力。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    我们最后查阅一下北美精算师协会对保险公司资产负债管理的定义是：“它是力求资产和负债经营决策相互协调的管理行为，它是在既定的风险约束和风险承受能力的前提下，对与资产和负债有关的决策进行制定、实施、监控和修改的持续过程。”从这一表述来看，资产负债管理绝非什么“逻辑起点”和“终极目标”，他依然是保险资产管理价值链的工具、手段与路径；它并非着眼于消除所有资产负债关系中的风险因素，相反，它依赖于“既定的风险约束和风险承受能力”。对国际保险精算界这一权威定义，中国银行业似乎比保险业理解得更为深刻，实践得也更为到位。<span lang="EN-US">
+<o:p></o:p></span></span></p>

@@ -1,0 +1,26 @@
+<p align="center" class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">2012-05-03</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"> </span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    上月，保监会发布了《中国第二代偿付能力监管制度体系建设规划》（以下简称“《规划》”）。《规划》对建设第二代偿付能力监管制度体系的指导思想、组织领导、总体目标、整体框架、基本原则、实施步骤和工作机制等七个方面进行了说明，开启了升级第一代偿付能力监管体系的引擎。《规划》提出在<span lang="EN-US">3-5年内分五个步骤建设完成第二代偿付能力监管制度体系，其中第二个阶段“开展专项研究”是承前启后的关键。《规划》共提出了六大专题研究项目，其中“研究保险集团偿付能力监管标准”这一课题引起了笔者对保险集团监管的关注。</span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /-->
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    在全球金融综合经营愈演愈烈的大背景下，十六大以后，我国开始陆续出现大型保险集团。<span lang="EN-US">2006年，《国务院关于保险业改革发展的若干意见》明确提出，“支持具备条件的保险公司通过重组、并购等方式，发展成为具有国际竞争力的保险控股（集团）公司。稳步推进保险公司综合经营试点，探索保险业与银行业、证券业更广领域和更深层次的合作，提供多元化和综合性的金融保险服务。”从而大大加快了我国保险企业集团化的步伐，促进了我国保险业做大做强。</span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    相对于单兵作战，保险集团化发展具有诸多优势，包括规模经济、范围经济、协同效应、信息共享和品牌提升等，有利于提高企业的综合竞争力。但是与此同时，保险集团化发展也给保险监管制度和公司风险管理带来了冲击和挑战。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    与传统的单一保险机构相比，保险集团经营存在诸多特殊风险：（<span lang="EN-US">1）风险传递风险。当集团内部某个子公司遭遇困境时，集团各公司的紧急援助或补贴很容易造成风险的内部传递。而且，由于市场参与者将集团看作一个整体，因此即使集团内部各个公司之间建立了“资金防火墙”，但是子公司的困境也会影响市场参与者对整个集团的信心。（<span lang="EN-US">2）关联交易风险。正当的关联交易可以发挥协同效应，但是不当的关联交易也会成为集团内部转移利润、输送利益和隐藏风险的手段。（<span lang="EN-US">3）资本重复计算风险。由于集团内部各个公司的控股关系复杂，集团的资本金可能存在重复计算的风险，从而高估集团的资本充足率，低估集团的财务杠杆水平。（<span lang="EN-US">4）利益冲突风险。在集团利益最大化的驱动下，某一子公司可能将其他子公司低质量或高价格的服务或产品进行捆绑销售，从而损害消费者的利益。（<span lang="EN-US">5）道德风险。保险集团规模庞大，因而发生风险时政府一般会尽量救助以避免其倒闭。这为集团提供了可乘之机，使其有更大的动力从事风险更高的经营和投资，从而产生道德风险。</span></span></span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    监管的根本目的在于防范风险。保险集团的特殊风险使得对保险集团的有效监管面临诸多困难。不仅如此，在实际监管实践中，保险集团监管还面临着监管协调、监管目标冲突和监管套利等问题。保险集团各成员公司的经营范围可能涉及保险、银行、证券、其他金融行业甚至非金融行业，在分业监管的情况下，如果各监管机构的职责不明确、信息沟通不畅、协调机制不力，那么很容易出现监管真空或者重复监管的现象；而在混业监管情况下，则容易产生“一刀切”，从而导致监管目标冲突等问题。此外，由于不同行业和不同国家的监管标准不同，保险集团也易出现监管套利的行为。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    虽然对保险集团进行有效监管困难重重，但是这个问题却着实重要。<span lang="EN-US">20世纪<span lang="EN-US">90年代以后，随着各国对金融综合经营管制的逐步放松，金融并购浪潮风起云涌，金融一体化进程不断加深，金融保险集团不断涌现，金融混业经营已是大势所趋。在此背景下，如果不能对保险集团进行有效监管，那么一旦出现风险，不仅庞大的保险集团可能轰然倒塌，更重要的是整体经济也会因此遭受重创。在本轮金融危机中，国际保险业巨头<span lang="EN-US">AIG由于旗下的投资公司过度投资<span lang="EN-US">CDS所引发的危机就给了我们深刻的警示。正因如此，各国都非常注重保险集团监管的研究，并在后危机时代纷纷对已有的保险集团监管制度进行改革，国际保险监督官协会也积极推动“国际保险集团监管共同框架”的建立。</span></span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    由于我国保险业监管起步较晚，经验匮乏，加之我国的保险集团出现也较晚，因此保险集团监管开始较晚。<span lang="EN-US">2006年，保监会启动了保险集团偿付能力编报规则研究项目并于<span lang="EN-US">2008年发布实施《保险公司偿付能力报告编报规则第<span lang="EN-US">14号：保险集团》，弥补了保险集团监管在制度和机制方面的空白。<span lang="EN-US">2010年，《保险集团公司管理办法（试行）》首次从准入条件、公司治理、股权投资、信息披露等方面对保险集团公司的管理作出了系统性规定。然而，目前我国的保险集团监管仍然存在诸多问题，一方面在分业监管模式下，各监管部门的协调沟通还有待加强，另一方面在监管内容上，保险集团子公司之间的风险隔离机制、发生利益冲突时对消费者的保护以及高管的任职要求等方面都有待完善。此外，在跨国金融集团不断发展的情况下，我国保险集团监管制度与国际标准的接轨也有待提高。</span></span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    目前，我国已有<span lang="EN-US">9家保险集团公司和<span lang="EN-US">1家保险控股股份有限公司，一些中型保险公司也正在积极筹备走集团化发展道路，保险集团逐渐成为国内保险市场的主导力量。因此，研究和完善保险集团监管制度迫在眉睫。此次《规划》将此课题列入六大专题研究项目也充分体现了此问题的重要性和紧迫性。在建设第二代偿付能力监管制度体系的契机下，相信保监会会认真总结已有的保险集团监管经验，最终建立一套既与我国国情相符，又与国际接轨的保险集团监管制度，助推我国保险业持续稳定健康发展。<span lang="EN-US">
+<o:p></o:p></span></span></span></span></p>

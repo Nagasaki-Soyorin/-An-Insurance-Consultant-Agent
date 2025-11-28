@@ -1,0 +1,61 @@
+<p align="center" class="MsoNormal" style="MARGIN: 0cm 0cm 0pt">
+<!--?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /-->
+<st1:chsdate day="1" islunardate="False" isrocdate="False" month="7" w:st="on" year="2012">
+<span lang="EN-US" style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">2012-07-17</span>
+</st1:chsdate></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt">
+<st1:chsdate day="1" islunardate="False" isrocdate="False" month="7" w:st="on" year="2012">
+<span lang="EN-US" style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"> </span>
+</st1:chsdate></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt">
+<st1:chsdate day="1" islunardate="False" isrocdate="False" month="7" w:st="on" year="2012">
+<span lang="EN-US" style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    7<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">月<span lang="EN-US">1日</span></span></span>
+</st1:chsdate><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">起，北京友谊医院正式实施医药分开试点，取消<span lang="EN-US">15%药品加成、挂号费、诊疗费，设立医事服务费。自费患者按医师职级支付<span lang="EN-US">2元到<span lang="EN-US">60元<span lang="EN-US">/人次不等，医保患者支付<span lang="EN-US">42元到<span lang="EN-US">100元<span lang="EN-US">/人次，医保报销<span lang="EN-US">40元<span lang="EN-US">/人次。此举意在切断医院收入和药品销售之间的利益关系，破解持续多年的以药养医局面。</span></span></span></span></span></span></span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /-->
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    以药养医源于上世纪<span lang="EN-US">90年代的旧医改，医改规定公立医院补偿由服务收费、药品加成收入和财政补助三个渠道构成，但政府只为这些医院的预算提供<span lang="EN-US">10%的补贴，他们必须通过盈利行为来维持医院生存。因此，虽然从所有权意义上为公立医院，但实际上却表现出“私有化的以营利为目的”的行为。为了使得基本医疗可得，政府制定的基本医疗服务价格低于成本价，但是为了保证公立医院生存，对高新诊断服务设置的价格又高于成本价，并且允许获得<span lang="EN-US">15%的药品利润，后者就是今天所谓的<span lang="EN-US">15%药品加成。这种价格机制导致供方（以盈利性活动来获得<span lang="EN-US">90%的预算支出）有悖常理的行动，医院、乡镇卫生院和村医等都转变成为盈利主体。并且，这种价格设置带来了以药养医的杠杆效应。结果带来了供方和制药行业的勾结，医院通过购药从药企中获得回扣，医生的奖金通常也与回扣相关。在农村地区，乡村医生以低价购买过期药和假药，并以正常药高价卖出。</span></span></span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    这就导致医院过度开药和检查，竞相引进高科技设备，从国外购买昂贵进口药，以获得高利润。过去<span lang="EN-US">20年间，中国的医疗支出以年均<span lang="EN-US">16%的速度增长，比<span lang="EN-US">GDP增长速度高出<span lang="EN-US">7%。实证研究表明，国际上医疗支出的收入弹性基本介于<span lang="EN-US">0.9-1.1之间，而中国的弹性显著超出了这一范围。快速增长的医疗支出在造成不必要浪费的同时，同时也给病人的健康造成了伤害。</span></span></span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    针对这种局面，<span lang="EN-US">2009年推出的新医改将公立医院改革作为重要任务之一予以推进，《医药卫生体制改革近期重点实施方案（<span lang="EN-US">2009―2011年）》规定“逐步将公立医院补偿由服务收费、药品加成收入和财政补助三个渠道改为服务收费和财政补助两个渠道”，“推进医药分开，逐步取消药品加成，不得接受药品折扣。医院由此减少的收入或形成的亏损通过增设药事服务费、调整部分技术服务收费标准和增加政府投入等途径解决。药事服务费纳入基本医疗保险报销范围”。</span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    这就是友谊医院推出“医事服务费”的背景，而所谓的“医事服务费”想必就是医改方案中提到的“药事服务费”，医改方案中同时说明了这个概念的涵义：指患者享受医生诊断和药品调剂等服务所交的费用。设立医事服务费，同时取消药品加成、挂号费、诊疗费，以此来破解以药养医局面，出发点很好，但笔者有几个疑虑：</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    第一，医保基金持续性会不会受影响？美国卫生经济学家詹姆斯・亨德森认为随着年龄增长，个体的医疗费用会随之增加，一个人一生中有一半的医疗费用发生在<span lang="EN-US">65岁之后。虽然医保基金的持续性不如养老基金那样受到广泛关注，但是随着人口老龄化加剧，老年人的医疗支出必然会不断上升。那么，将医事服务费作为医保报销部分，会不会对基金的可持续性造成影响？</span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    第二，医事服务费定点报销费用是由谁承担？政府、个人还是企业？如果是政府，那么财政支持的可持续性有多强？如果是个人，就意味着医保参与者要交更多的钱；如果是企业，在倡导结构性减税和减轻企业负担之时，这个方案的可行性有多强？</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    第三，这个方案在全国的推广性有多强？对于那些经济较为落后地区，个人收入不高，地方政府财政支持力度不强，企业实力也比较弱，政策的推广性和可持续性恐怕还值得进一步探讨。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    第四，治疗效果是否会受到影响？现实操作中，医生有可能为了多看病人，以赚取医事服务费，而减少对病人的诊疗时间，从而可能使得诊疗质量和效果受到影响。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    第五，实施医事服务费真能使药品价格降下来吗？长期以来，医院、医生与制药行业的勾结已是不争之事实，对于药品价格虚高和药品销售回扣，几乎没有一家药企主动站出来进行抵制，原因就在于他们是受益者而非受害者。医药分开的推行更有利于制药行业获得药品销售利益最大化，因为医院实行药品零利润后，可以将药房社会化，药企可通过商业手段，诱使医师开大处方、高价药，提高药品销售业绩。结果很可能是，药品销售利益与医疗机构形式上剥离了，药品价格却未降，看病贵的问题依然存在。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    第六，患者的负担真能减轻吗？从试点的友谊医院看<span lang="EN-US">,一方面取消每人次<span lang="EN-US">5元、<span lang="EN-US">7元、<span lang="EN-US">9元、<span lang="EN-US">14元不等的挂号费、诊疗费，增设每人次<span lang="EN-US">2元到<span lang="EN-US">60元不等的医事服务费，异地就医者，如农村人口到城市大医院就医，以前花很少的挂号费就可以，但改革后却要交可能几十块的挂号费。短期药价虽然可能降低了，但长期来看，患者的负担未必能得以减轻。</span></span></span></span></span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    以药养医是一个长期存在的顽疾，仅凭设立一个“医事服务费”可能很难实现制度预期目标。同时，医疗体系也是一个复杂的系统，需要方方面面配套改革来进行支撑，而改革意味着打破既得利益体系，因此可能会加大推进难度。但是，要从根本上破除以药养医之局面，降低日益增长的医疗支出，从现实操作上来讲，改革支付方式无疑是一可行之计。医院可采用按病种付费（<span lang="EN-US">DRG），在基本服务提供者中采用风险调整的按人头付费方式。由于补偿额度是固定的，因此医生就会有激励来控制支出以免超过补偿额。改革支付方式可能会影响服务质量，因此相应的质量控制措施应当加以建立。按治疗效果付费（<span lang="EN-US">pay-for-performance）和上述两种方式结合可以改进服务质量。在按效果付费中，提供者会由于病人健康状况改善或采用经证明为有成本效益的服务而受到奖励。有学者比较了海南<span lang="EN-US">6家采用预付制改革医院和其他仍采用按服务付费的医院，发现改革医院的支出增长率较低且住院病人的共付额度低。</span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    设立医事服务费旨在切断医院收入和药品销售之间的关系，此措施出发点虽好，但在操作中难免有换汤不换药，新瓶装旧酒之嫌。现在是医改攻坚期，公立医院改革成功与否是关系医改成效的关键环节，破解以药养医又是公立医院改革的重要部分。深水区的改革犹如逆水行舟，不进则退，需要改革者周全考虑措施的各种可能效应，尽力将改革成功向前推进。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"> </span></p>
+<p align="right" class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p>
+<span style="FONT-FAMILY: 宋体">转载于《中国保险报》“北大保险评论”358期，2012.7.17</span>
+</o:p></span></span>
+</o:p></span></span></span>
+</o:p></span></span></span></p>

@@ -1,0 +1,27 @@
+<p align="center" class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">2013-04-23</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"> </span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    前几日还在和相关领域的同行讨论汶川地震<span lang="EN-US">5年来研究与实践的进展，<span lang="EN-US">4月<span lang="EN-US">20日早晨就发生了芦山<span lang="EN-US">7.0级地震。的确难以想象，刚刚从<span lang="EN-US">5.12汶川大地震阴影中走出的四川，会再次遭遇大灾。这一天，距离四川宣布汶川地震灾后重建胜利完成，仅仅过去一年两个月。<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">震惊之余，很多人不禁感叹，巨灾的发生一次次挑战我们的想象力。时隔仅五年，熟悉的画面就又一次出现的电视屏幕上，如此破坏力巨大的地震居然在五年后再次发生，而且同是在四川，同是在龙门山地震带上！巨灾之所以称为巨灾，除了会造成巨额损失的特点之外，还具有发生概率小的特点，那么芦山地震是否说明，巨灾风险已经超出预期？模型公司的地震模型是否应该修正？ </span></span></span></span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /-->
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    风险超出预期的情形实际并不罕见，<span lang="EN-US">2011年，这一问题就引起了前所未有的关注。先是日本发生令世人瞠目的地震海啸，地震的震级超出现有巨灾模型的数据库的极限，海啸的高度也使得一些研究者开始怀疑他们之前对海啸的认知是否准确；接下来的泰国洪水也给这一长久以来印象中的“鱼米之乡”带来了巨大的经济损失，而且至今无法确定损失究竟有多少，在再保险领域中，泰国作为传统意义上的非巨灾风险累积区域，一直担负着分散欧美和日本灾害风险的作用，甚至没有任何商业巨灾模型包含这一区域。</span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    在自然的挑战面前，我们需要加强对风险的认识。对于罕见巨灾的发生是否说明该区域巨灾风险已经改变，应进行更全面的审视。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    首先，风险是一个期望值和标准差混合在一起的概念，出发点是一个长期的视角。一个百年一遇的风险，理论上来说平均每一百年发生一次，不能因为这一次发生在一百年的前面某一年就认为风险等级需要调高，更何况，有的时候这一年也不一定就是一百年的前面某年，也可能是后期某年，还有可能一百年内发生两次，而后面一百年一次也不发生。巨灾保险不同于很多其他的财产保险与人寿保险，它很难做到近似完全的空间上的分散，因此就不得不利用时间维度的分散，但时间维度的分散对我们已经习惯的认知模式是一个挑战。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    其次，巨灾风险的评估应更重视对风险形成机制的分析。从风险损失的角度来说，随着人口的增长、城市中心的扩张以及经济资产的增加，风险损失有增大的趋势，即便是强度相同的两个致灾因子，三十年前和三十年后导致的损失也可能是差别甚大的。技术的进步可能在一定程度上降低承灾体的脆弱性，但脆弱性的影响因素很多，它的实际变化是增加还是降低，以及降低的幅度能够在多大程度上抵消承灾体经济价值的增加，都是我们理解风险的基础。从风险发生频率的角度来说，气候变化以及地质活动等是影响致灾因子的决定因素，这些影响仅从历史灾害损失数据的观察中难以得到完整的概念，历史损失数据混合了承灾体的贡献，如果不能做很好地剔除很容易引起误解，而且历史损失数据也无法融合相关自然科学领域的研究进展，无法体现我们已经认识到的未来的新趋势，例如温室效应和污染物形成的气溶胶所带来的降温效果的抵消程度，再如研究者们从弹性势能和重力势能两方面对海啸强度的研究，都无法不断补充到损失数据中。对于大多数保险风险来说，历史损失数据是费率厘定的基础，但对于巨灾风险的理解还是要从致灾因子、孕灾环境、承灾体这一灾害形成过程出发，提取其中的风险因素，构成灾害风险形成机制，即便我们对这一机制的理解还在不断探索中，但这样的思路可以尽可能多地综合信息，建立全面信息基础上的认知。风险是否已经超出了预期，巨灾模型是否需要进行调整，这个问题的答案不是由一两次已经发生的巨灾决定的，而是由对致灾因子、孕灾环境、承灾体的研究决定的。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    保险公司在面临棘手的巨灾风险时，不仅自身需要提升对风险的认识水平，更要培育消费者的风险意识，帮助消费者建立正确的风险认知。我国的保险市场历史短，消费者的保险印象早期可以说近似于一张白纸，最初画上的图景会在很长时期内决定他对保险的印象。保险是用来转移风险的，而风险和危险不同，一个人站在悬崖的边缘是危险而不是风险，危险不能由保险这种风险管理手段来转移。如果说保险公司的大多数产品是通过大量的承保单位来进行风险分散的话，那么对于保险消费者来说，尤其是非寿险产品的消费者，他们的风险分散效果是在时间维度上显现出来的。如果我们对消费者口味的培养是告诉他出险了可以得到数倍于保费的赔偿金，没有出险则保费可以收回，那么很容易导致的一个误解就是：今年缴纳<span lang="EN-US">100元购买的农业保险因未出险没有得到赔偿，就是亏了，来年续保可能就比较犹豫，几年风调雨顺下来便觉得保险无用。实际上，这种类型的保险的价值无论在短期还是长期内，都是间接影响优于直接影响，如果对此问题没有正确的理解，未来的巨灾保险也一样会遇到这种误解，加上前面谈及的巨灾事件的影响，随之而来的就是覆盖率、道德风险与逆选择问题，这些都不利于巨灾保险的发展。</span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    无论是巨灾风险超出预期，还是巨灾风险低于预期，需要以全面的、前瞻性的视角来判断，在感性和科学的比较与认识中，保险公司和消费者都在成长。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"> </span></p>
+<p align="right" class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">转载于《中国保险报》“北大保险评论”<span lang="EN-US">394期，<span lang="EN-US">2013.04.23</span></span></span>
+</o:p></span></span></p>

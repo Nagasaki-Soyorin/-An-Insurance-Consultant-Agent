@@ -1,0 +1,29 @@
+<p align="center" class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">2012-05-08</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"> </span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    中国保监会发布《关于加强机动车辆商业保险条款费率管理的通知》（以下简称通知）已经近两个月，相关的讨论相当热烈，讨论的热点多集中于自主厘定费率资格、《通知》中对于“高保低赔”，“无责免赔”的限制等方面，对于此次改革，正面评价居多。回想上次车险费率改革，却进行得相当曲折。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /-->
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span lang="EN-US" style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    2001<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">年车险费率改革试点始于广东，<span lang="EN-US">2003年推至全国。各财险公司开始实行自主厘定的费率，费率大幅下降，赔款却大幅增加，车险行业陷入价格恶性竞争的无序状态。为制止这种恶性竞争，监管者不得不加以硬性限制，保监会出台<span lang="EN-US">2006年第<span lang="EN-US">19号文件，要求保险公司在销售车险产品时，价格最低不能低于七折。此次改革以失败告终。这种对于费率的硬性规定只能在短期起到遏制恶性竞争的作用，不符合费率厘定的基本原则，也不利于车险行业本身的发展。时隔几年之后，北京和深圳分别先后开始进行商业车险费率改革的试点，改革方案实施后，两地车险的出险率和报案率都有较大程度的下降，车主对于自己的出险理赔信息相当关注，并且不少车主享受到了费率优惠。期间，中国保监会，中国保险行业协会组织了充分的调研，并就改革方案向全社会征求意见。最终保监会发布了日前的《关于加强机动车辆商业保险条款费率管理的通知》。可以看出，此次改革进行得相当谨慎和稳健，并取得了比较好的效果。但从本质上，与十年前的改革相比，是什么原因使得此次改革进行得比较顺畅？改革成功的关键在哪里？我认为，车险信息平台的建立和完善起到了至关重要的作用。</span></span></span></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    抛开车险这一限制条件，费率对于任何保险产品而言都是影响其销售的重要因素之一，并且费率作为保险产品的“价格”与一般商品的定价有着明显的区别。寿险产品的费率主要依据生命表，相对比较简单，同时寿险多为长期业务，相对承保收益而言，投资收益对于保险公司更为重要，所以费率厘定的重要性并不十分突出。而对于非寿险而言，费率厘定的科学性与准确性则直接影响公司的盈利水平。非寿险费率的厘定主要依据历史数据和精算技术，后者通过借鉴国际经验已经相当成熟，费率厘定是否准确主要取决于前者。保险市场本身具有很强的信息不对称性，如果保险公司没有掌握充分的信息，只是粗略地厘定费率，就会出现“逆向选择”现象，同时被保险人的风险水平还会随着其是否投保，保障程度的高低发生变化，也就是我们常说的“道德风险”。信息的不对称和由此带来的“逆向选择”和“道德风险”是保险产品费率厘定过程中一直存在的障碍。<span lang="EN-US">2003年的车险费率市场化改革失败的根本原因也是在于此，当时整个车险行业历史数据匮乏，保险公司“自主”厘定的费率就成了“无源之水”，费率的降低和提高都没有充分的依据。</span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    近几年来，车险信息共享平台的广泛使用解决了数据缺乏的问题，目前多个省份都建立了车险信息共享平台，实现了车辆保险动态数据信息在公安交通管理部门、保险监管机构、保险行业协会及各省级保险公司之间的共享，有些省份还实现了交通违法行为信息的共享。相关信息的共享对于车险费率的市场化及整个车险市场的发展有着举足轻重的作用和深远的意义：</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    一、车险信息的共享有助保险公司识别被保险人的风险程度，有效地缓解“逆向选择”。如果没有信息共享，一方面保险公司无法有充分的信息厘定费率，另一方面，一些车主由于过去理赔次数较多导致费率增加，往往会改投其它公司以获得较低的费率，保险公司却无法识别，这样既不利于激励车主谨慎驾驶，还会增加保险公司的承保风险。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    二、历史理赔数据与交通违法行为信息的共享以及采用浮动费率，可以有效地解决“风险分类”带来的“统计歧视”问题。在面临“逆向选择”时，保险公司有时会对不同类别的被保险人采用不同的费率来缓解“逆向选择”。例如：如果统计结果显示女性比男性发生事故的可能性更大，就会对女性收取更高的费率，这样就会带来性别歧视的争议。虽然对于初次投保的车主来说，无法对其风险程度进行判断，但随着其参保时间的增加，保险公司依据车主的相关历史数据，就能对其风险程度进行判断，对于不同风险程度的个人采用有差别的费率，并且可以每年进行调整。这样就不会带来所谓的“歧视”问题。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    三、车险信息的共享有利于车险市场的竞争。如果信息不共享，对于比较谨慎的车主，只有一直在同一家公司投保才能享受相应的优惠，如果换投另外一家保险公司，就无法享受这种优惠。在车险信息共享的条件下，即便换投另外一家公司，该公司通过调用其历史理赔数据，该车主也能享受同样的优惠。这种费率的透明和统一有利于促进保险公司在服务质量等方面进行有效竞争，为车险市场营造健康的竞争环境。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    虽然目前基于车险信息平台的浮动费率机制起到了很好的效果，但需要注意的是，目前各省份费率的浮动主要基于道路交通事故发生的次数，并且只是对费率进行相对简单的浮动，这种机制有待于进一步精细化，例如可以考虑免赔额的变化。目前只依据发生事故次数调整费率的高低相当于只考虑了“逆向选择”，而未考虑“道德风险”，打个比方，如果一个车主本来比较谨慎，只是因为投保后防损意识淡薄，导致一些小事故的发生，如果保险公司对于这类车主收取高费率，该车主有可能选择不投保，相当于高费率将此类车主“拒之门外”，如果保险公司对其免赔额进行调整，而不是过大地调整其费率，可能效果会更好。</span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt"><span lang="EN-US">
+<o:p></o:p> </span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt">    目前，信息共享并不局限于车险领域，<span lang="EN-US">2011年底辽宁省非车险理赔信息共享查询平台已上线运行，并且已经上传了近<span lang="EN-US">3年的企财险和责任险理赔数据。随着信息共享平台这一利器在非寿险领域广泛地运用，我国非寿险产品的费率厘定会更加科学，从而能够充分地缓解“逆向选择”问题，促进我国保险业理性竞争，同时为相关领域的研究提供更加丰富详实的数据来源。<span lang="EN-US">
+<o:p></o:p></span></span></span></span></p>

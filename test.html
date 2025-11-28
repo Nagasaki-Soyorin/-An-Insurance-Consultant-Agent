@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>增强版语音识别应用</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #6e8efb, #a777e3);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+        
+        .container {
+            background-color: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            width: 90%;
+            max-width: 800px;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        h1 {
+            color: #333;
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+        
+        .subtitle {
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 1rem;
+        }
+        
+        .main-content {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 25px;
+        }
+        
+        .input-section {
+            flex: 1;
+        }
+        
+        .history-section {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .status-container {
+            background-color: #f5f7ff;
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 20px;
+            min-height: 80px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .status {
+            font-size: 1.1rem;
+            color: #555;
+            margin-bottom: 10px;
+        }
+        
+        .result {
+            font-size: 1.3rem;
+            color: #333;
+            font-weight: 500;
+            min-height: 30px;
+        }
+        
+        .button-container {
+            margin: 25px 0;
+        }
+        
+        .btn {
+            background: linear-gradient(to right, #6e8efb, #a777e3);
+            color: white;
+            border: none;
+            border-radius: 50px;
+            padding: 15px 40px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(110, 142, 251, 0.4);
+            outline: none;
+        }
+        
+        .btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 20px rgba(110, 142, 251, 0.6);
+        }
+        
+        .btn:active {
+            transform: translateY(1px);
+        }
+        
+        .btn.recording {
+            background: linear-gradient(to right, #ff5e7d, #ff8a5c);
+            box-shadow: 0 4px 15px rgba(255, 94, 125, 0.4);
+        }
+        
+        .btn.recording:hover {
+            box-shadow: 0 6px 20px rgba(255, 94, 125, 0.6);
+        }
+        
+        .btn.clear {
+            background: linear-gradient(to right, #42b883, #347474);
+            box-shadow: 0 4px 15px rgba(66, 184, 131, 0.4);
+            padding: 10px 20px;
+            font-size: 0.9rem;
+        }
+        
+        .btn.clear:hover {
+            box-shadow: 0 6px 20px rgba(66, 184, 131, 0.6);
+        }
+        
+        .visualizer {
+            width: 100%;
+            height: 100px;
+            margin: 20px 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 3px;
+        }
+        
+        .bar {
+            width: 6px;
+            height: 20px;
+            background-color: #6e8efb;
+            border-radius: 3px;
+            transition: height 0.2s ease;
+        }
+        
+        .history-container {
+            background-color: #f5f7ff;
+            border-radius: 15px;
+            padding: 15px;
+            flex: 1;
+            overflow-y: auto;
+            max-height: 400px;
+        }
+        
+        .history-title {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+        
+        .history-title h2 {
+            color: #333;
+            font-size: 1.2rem;
+        }
+        
+        .history-list {
+            text-align: left;
+        }
+        
+        .history-item {
+            background-color: white;
+            border-radius: 10px;
+            padding: 12px;
+            margin-bottom: 12px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+        }
+        
+        .history-item:last-child {
+            margin-bottom: 0;
+        }
+        
+        .history-item .time {
+            font-size: 0.8rem;
+            color: #888;
+            margin-bottom: 5px;
+        }
+        
+        .history-item .query {
+            color: #333;
+            margin-bottom: 8px;
+            font-weight: 500;
+        }
+        
+        .history-item .response {
+            color: #6e8efb;
+            border-left: 3px solid #6e8efb;
+            padding-left: 10px;
+            font-style: italic;
+        }
+        
+        .history-item .loading {
+            color: #888;
+            font-style: italic;
+        }
+        
+        .info {
+            background-color: #f0f4ff;
+            border-radius: 10px;
+            padding: 15px;
+            margin-top: 20px;
+            font-size: 0.9rem;
+            color: #555;
+            text-align: left;
+        }
+        
+        .info h3 {
+            margin-bottom: 8px;
+            color: #444;
+        }
+        
+        .info ul {
+            padding-left: 20px;
+        }
+        
+        .info li {
+            margin-bottom: 5px;
+        }
+        
+        .error {
+            color: #ff5e7d;
+            font-weight: 500;
+            margin-top: 10px;
+        }
+        
+        @media (max-width: 768px) {
+            .main-content {
+                flex-direction: column;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .container {
+                padding: 20px;
+            }
+            
+            h1 {
+                font-size: 1.5rem;
+            }
+            
+            .btn {
+                padding: 12px 30px;
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>增强版语音识别应用</h1>
+        <p class="subtitle">语音识别 + AI响应 + 历史记录</p>
+        
+        <div class="main-content">
+            <div class="input-section">
+                <div class="status-container">
+                    <div class="status" id="status">准备就绪</div>
+                    <div class="result" id="result"></div>
+                    <div class="error" id="error"></div>
+                </div>
+                
+                <div class="visualizer" id="visualizer"></div>
+                
+                <div class="button-container">
+                    <button class="btn" id="startBtn">启动语音输入</button>
+                </div>
+            </div>
+            
+            <div class="history-section">
+                <div class="history-title">
+                    <h2>历史记录</h2>
+                    <button class="btn clear" id="clearBtn">清空记录</button>
+                </div>
+                <div class="history-container">
+                    <div class="history-list" id="historyList">
+                        <!-- 历史记录将在这里动态生成 -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="info">
+            <h3>使用说明：</h3>
+            <ul>
+                <li>点击"启动语音输入"按钮开始录音</li>
+                <li>再次点击按钮停止录音并显示识别结果</li>
+                <li>识别结果将自动发送到AI并显示响应</li>
+                <li>所有对话将保存在历史记录中</li>
+                <li>请确保已允许浏览器访问麦克风</li>
+                <li>确保本地Python服务器正在运行</li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const startBtn = document.getElementById('startBtn');
+            const clearBtn = document.getElementById('clearBtn');
+            const status = document.getElementById('status');
+            const result = document.getElementById('result');
+            const error = document.getElementById('error');
+            const visualizer = document.getElementById('visualizer');
+            const historyList = document.getElementById('historyList');
+            
+            // 创建音频可视化效果
+            for (let i = 0; i < 30; i++) {
+                const bar = document.createElement('div');
+                bar.className = 'bar';
+                visualizer.appendChild(bar);
+            }
+            const bars = document.querySelectorAll('.bar');
+            
+            let recognition;
+            let isRecording = false;
+            let history = JSON.parse(localStorage.getItem('speechHistory')) || [];
+            
+            // 初始化历史记录
+            renderHistory();
+            
+            // 检查浏览器是否支持语音识别
+            if ('webkitSpeechRecognition' in window || 'SpeechRecognition' in window) {
+                const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+                recognition = new SpeechRecognition();
+                
+                // 配置识别参数
+                recognition.continuous = true;
+                recognition.interimResults = true;
+                recognition.lang = 'zh-CN';
+                
+                // 语音识别开始事件
+                recognition.onstart = function() {
+                    status.textContent = '正在聆听...';
+                    startBtn.textContent = '停止语音输入';
+                    startBtn.classList.add('recording');
+                    isRecording = true;
+                    error.textContent = '';
+                };
+                
+                // 语音识别结果事件
+                recognition.onresult = function(event) {
+                    let finalTranscript = '';
+                    let interimTranscript = '';
+                    
+                    for (let i = event.resultIndex; i < event.results.length; i++) {
+                        const transcript = event.results[i][0].transcript;
+                        if (event.results[i].isFinal) {
+                            finalTranscript += transcript;
+                        } else {
+                            interimTranscript += transcript;
+                        }
+                    }
+                    
+                    // 显示最终结果
+                    if (finalTranscript) {
+                        result.textContent = finalTranscript;
+                        // 识别完成，发送到服务器
+                        sendToServer(finalTranscript);
+                    } 
+                    // 显示临时结果
+                    else if (interimTranscript) {
+                        result.textContent = interimTranscript;
+                    }
+                    
+                    // 更新可视化效果
+                    updateVisualizer();
+                };
+                
+                // 语音识别结束事件
+                recognition.onend = function() {
+                    status.textContent = '识别结束';
+                    startBtn.textContent = '启动语音输入';
+                    startBtn.classList.remove('recording');
+                    isRecording = false;
+                    
+                    // 重置可视化效果
+                    resetVisualizer();
+                };
+                
+                // 语音识别错误事件
+                recognition.onerror = function(event) {
+                    console.error('语音识别错误:', event.error);
+                    
+                    if (event.error === 'not-allowed') {
+                        error.textContent = '麦克风访问被拒绝，请允许浏览器访问麦克风';
+                    } else if (event.error === 'audio-capture') {
+                        error.textContent = '未找到麦克风设备';
+                    } else if (event.error === 'network') {
+                        error.textContent = '网络连接问题，请检查网络';
+                    } else {
+                        error.textContent = `识别错误: ${event.error}`;
+                    }
+                    
+                    status.textContent = '识别出错';
+                    startBtn.textContent = '启动语音输入';
+                    startBtn.classList.remove('recording');
+                    isRecording = false;
+                    
+                    // 重置可视化效果
+                    resetVisualizer();
+                };
+            } else {
+                // 浏览器不支持语音识别
+                startBtn.disabled = true;
+                status.textContent = '您的浏览器不支持语音识别功能';
+                error.textContent = '请使用Chrome、Edge等现代浏览器';
+            }
+            
+            // 开始/停止语音识别
+            startBtn.addEventListener('click', function() {
+                if (!recognition) return;
+                
+                if (!isRecording) {
+                    try {
+                        recognition.start();
+                    } catch (err) {
+                        console.error('启动语音识别失败:', err);
+                        error.textContent = '启动语音识别失败，请刷新页面重试';
+                    }
+                } else {
+                    recognition.stop();
+                }
+            });
+            
+            // 清空历史记录
+            clearBtn.addEventListener('click', function() {
+                if (confirm('确定要清空所有历史记录吗？')) {
+                    history = [];
+                    localStorage.setItem('speechHistory', JSON.stringify(history));
+                    renderHistory();
+                }
+            });
+            
+            // 发送语音识别结果到服务器
+            async function sendToServer(text) {
+                if (!text.trim()) return;
+                
+                // 创建新的历史记录项
+                const newItem = {
+                    id: Date.now(),
+                    timestamp: new Date().toLocaleString(),
+                    query: text,
+                    response: '',
+                    loading: true
+                };
+                
+                // 添加到历史记录
+                history.unshift(newItem);
+                localStorage.setItem('speechHistory', JSON.stringify(history));
+                renderHistory();
+                
+                try {
+                    // 发送到本地服务器
+                    const response = await fetch('http://localhost:5000/process_speech', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify({ text: text })
+                    });
+                    
+                    if (!response.ok) {
+                        throw new Error(`服务器错误: ${response.status}`);
+                    }
+                    
+                    const data = await response.json();
+                    
+                    // 更新历史记录中的AI响应
+                    const itemIndex = history.findIndex(item => item.id === newItem.id);
+                    if (itemIndex !== -1) {
+                        history[itemIndex].response = data.response || '未收到有效响应';
+                        history[itemIndex].loading = false;
+                        localStorage.setItem('speechHistory', JSON.stringify(history));
+                        renderHistory();
+                    }
+                } catch (err) {
+                    console.error('发送到服务器失败:', err);
+                    
+                    // 更新历史记录显示错误
+                    const itemIndex = history.findIndex(item => item.id === newItem.id);
+                    if (itemIndex !== -1) {
+                        history[itemIndex].response = `错误: ${err.message}`;
+                        history[itemIndex].loading = false;
+                        localStorage.setItem('speechHistory', JSON.stringify(history));
+                        renderHistory();
+                    }
+                    
+                    error.textContent = `发送到服务器失败: ${err.message}`;
+                }
+            }
+            
+            // 渲染历史记录
+            function renderHistory() {
+                historyList.innerHTML = '';
+                
+                if (history.length === 0) {
+                    historyList.innerHTML = '<div class="history-item"><div class="response">暂无历史记录</div></div>';
+                    return;
+                }
+                
+                history.forEach(item => {
+                    const historyItem = document.createElement('div');
+                    historyItem.className = 'history-item';
+                    
+                    historyItem.innerHTML = `
+                        <div class="time">${item.timestamp}</div>
+                        <div class="query">${item.query}</div>
+                        <div class="response">
+                            ${item.loading ? 'AI正在思考中...' : item.response}
+                        </div>
+                    `;
+                    
+                    historyList.appendChild(historyItem);
+                });
+            }
+            
+            // 更新可视化效果
+            function updateVisualizer() {
+                bars.forEach(bar => {
+                    const height = Math.floor(Math.random() * 80) + 10;
+                    bar.style.height = `${height}px`;
+                    
+                    // 随机颜色变化
+                    const blue = Math.floor(Math.random() * 55) + 200;
+                    bar.style.backgroundColor = `rgb(110, 142, ${blue})`;
+                });
+            }
+            
+            // 重置可视化效果
+            function resetVisualizer() {
+                bars.forEach(bar => {
+                    bar.style.height = '20px';
+                    bar.style.backgroundColor = '#6e8efb';
+                });
+            }
+        });
+    </script>
+</body>
+</html>
